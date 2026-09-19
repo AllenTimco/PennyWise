@@ -1,23 +1,31 @@
 <!DOCTYPE html>
-html lang="en">
-head>
-title>My Financial App</title>
-/head>
-body>
-<h1>Connect Your Bank</h1>
-<button id="connect-btn">Link Account</button>
+<html lang="en">
 
-<script>
-    document.getElementById('connect-btn').addEventListener('click', async () =>
-    {
-        // Call your Java backend running on port 8080
-        const response = await fetch('http://localhost:8080/api/token');
-        const data = await response.json();
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Financial App</title>
+</head>
 
-        console.log("Received token from Java:", data.link_token);
-        alert("Got token: " + data.link_token);
-    });
-</script>
-/body>
+<body>
+    <h1>Connect Your Bank</h1>
+    <button id="connect-btn">Link Account</button>
+    <p id="status"></p>
+
+    <script>
+        document.getElementById('connect-btn').addEventListener('click', async () =>
+        {
+            // Call your Java backend running on port 8080
+            const response = await fetch('http://localhost:8080/api/status');
+            const data = await response.json();
+
+            document.getElementById('status').textContent =
+                `${data.status}: ${data.message}`;
+        });
+    </script>
+    <!-- This is what youll need to use to call java backend -->
+</body>
+<!-- This is what youll need to use to call java backend -->
+<!-- this whole part -->
 
 </html>

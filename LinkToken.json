@@ -1,9 +1,0 @@
-{
-  "client_id": 6aaeaa67ce1b9b000ebde982,
-  "secret": "YOUR_SECRET",
-  "user": { "client_user_id": "unique_user_id" },
-  "client_name": "Your App Name",
-  "products": ["investments", "balance"], 
-  "country_codes": ["US"],
-  "language": "en"
-}
