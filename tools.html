@@ -59,28 +59,7 @@
     </div>
     <div class="footer-copy">© 2026 PennyWise. All rights reserved.</div>
 </footer>
-<script>
-function money(n){return '$'+Number(n).toLocaleString(undefined,{maximumFractionDigits:2});}
-function compound(){
- const p=+document.getElementById('ci-p').value||0,r=(+document.getElementById('ci-r').value||0)/100,y=+document.getElementById('ci-y').value||0,c=+document.getElementById('ci-c').value||0;
- const m=r/12,n=y*12, fv=m? p*Math.pow(1+m,n)+c*((Math.pow(1+m,n)-1)/m):p+c*n;
- document.getElementById('ci-out').textContent=money(fv);
-}
-function loan(){
- const p=+document.getElementById('lo-p').value||0,r=(+document.getElementById('lo-r').value||0)/100/12,n=(+document.getElementById('lo-y').value||0)*12;
- const pay=r?p*r*Math.pow(1+r,n)/(Math.pow(1+r,n)-1):(n?p/n:0);
- document.getElementById('lo-out').textContent=money(pay);
-}
-function tax(){const i=+document.getElementById('tx-i').value||0,r=(+document.getElementById('tx-r').value||0)/100;document.getElementById('tx-out').textContent=money(i*r);}
-function invest(){
- const p=+document.getElementById('in-p').value||0,c=+document.getElementById('in-c').value||0,r=(+document.getElementById('in-r').value||0)/100/12,n=(+document.getElementById('in-y').value||0)*12;
- const fv=r?p*Math.pow(1+r,n)+c*((Math.pow(1+r,n)-1)/r):p+c*n;
- document.getElementById('in-out').textContent=money(fv);
-}
-function budget(){
- const vals=['bu-h','bu-f','bu-t','bu-o'].reduce((s,id)=>s+(+document.getElementById(id).value||0),0);
- document.getElementById('bu-out').textContent=money((+document.getElementById('bu-i').value||0)-vals);
-}
-compound();loan();tax();invest();budget();
-</script>
+<script src="script.js"></script>
+</body>
+</html>
 </body></html>

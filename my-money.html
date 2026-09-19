@@ -66,15 +66,7 @@
     </div>
     <div class="footer-copy">© 2026 PennyWise. All rights reserved.</div>
 </footer>
-<script>
-function money(n){return '$'+Number(n).toLocaleString(undefined,{maximumFractionDigits:2});}
-function updateMoney(){
- const income=+document.getElementById('income').value||0, expenses=+document.getElementById('expenses').value||0;
- const savings=+document.getElementById('savings').value||0, debt=+document.getElementById('debt').value||0, credit=+document.getElementById('credit').value||0;
- document.getElementById('left').textContent=money(income-expenses);
- document.getElementById('rate').textContent=(income?((income-expenses)/income*100):0).toFixed(0)+'%';
- document.getElementById('debtOut').textContent=money(debt);
- document.getElementById('creditOut').textContent=credit;
-}
-</script>
+<script src="script.js"></script>
+</body>
+</html>
 </body></html>
