@@ -1,15 +1,16 @@
-package com.example.pennywise;
+package com.example.pennywise.controller;
 
-import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.CrossOrigin;
-import java.util.Map;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
 import java.util.HashMap;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "*") 
+@CrossOrigin(origins = "*")
 public class BankController {
 
     @GetMapping("/status")

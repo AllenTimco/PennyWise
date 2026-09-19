@@ -3,8 +3,8 @@
 ## Phase 1: Core Website and Backend
 
 ### Project setup
-- [ ] Confirm the website structure and frontend pages.
-- [ ] Keep the Spring Boot backend separate from frontend presentation code.
+- [x] Confirm the website structure and frontend pages.
+- [x] Keep the Spring Boot backend separate from frontend presentation code.
 - [ ] Organize backend packages into `entity`, `repository`, `service`, `controller`, `dto`, `config`, `exception`, and `security`.
 - [ ] Configure environment variables for database credentials and application secrets.
 - [ ] Add API documentation with OpenAPI or Swagger.
@@ -26,18 +26,18 @@
 ## Phase 2: Expense Tracker MVP
 
 ### Transactions
-- [ ] Complete the `Transaction` entity.
+- [x] Complete the `Transaction` entity.
 - [ ] Add amount, description, category, date, transaction type, payment account, notes, and user ID.
-- [ ] Create the `TransactionRepository`.
-- [ ] Create transaction request and response DTOs.
-- [ ] Create the transaction service.
-- [ ] Create the transaction controller.
+- [x] Create the `TransactionRepository`.
+- [x] Create transaction request and response DTOs.
+- [x] Create the transaction service.
+- [x] Create the transaction controller.
 - [ ] Validate that amounts are positive.
 - [ ] Validate dates and required fields.
 - [ ] Ensure users can access only their own transactions.
-- [ ] Add create transaction endpoint: `POST /api/transactions`.
-- [ ] Add list transactions endpoint: `GET /api/transactions`.
-- [ ] Add transaction details endpoint: `GET /api/transactions/{id}`.
+- [x] Add create transaction endpoint: `POST /api/transactions`.
+- [x] Add list transactions endpoint: `GET /api/transactions`.
+- [x] Add transaction details endpoint: `GET /api/transactions/{id}`.
 - [ ] Add update transaction endpoint: `PUT /api/transactions/{id}`.
 - [ ] Add delete transaction endpoint: `DELETE /api/transactions/{id}`.
 - [ ] Add filtering by date range, category, amount, type, and search text.
