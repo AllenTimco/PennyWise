@@ -4,28 +4,400 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Financial App</title>
+    <title>PennyWise — Your financial guide to life in America</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="frontEnd.css">
 </head>
 
 <body>
-    <h1>Connect Your Bank</h1>
-    <button id="connect-btn">Link Account</button>
-    <p id="status"></p>
 
-    <script>
-        document.getElementById('connect-btn').addEventListener('click', async () =>
-        {
-            // Call your Java backend running on port 8080
-            const response = await fetch('http://localhost:8080/api/status');
-            const data = await response.json();
+    <header class="header">
+        <a href="#home" class="logo">PennyWise</a>
 
-            document.getElementById('status').textContent =
-                `${data.status}: ${data.message}`;
-        });
-    </script>
-    <!-- This is what youll need to use to call java backend -->
+        <nav class="navbar" aria-label="Primary">
+            <ul>
+                <li><a href="frontEnd.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="my-money.html">My Money</a></li>
+                <li><a href="learn.html">Learn</a></li>
+                <li><a href="goals.html">Goals</a></li>
+                <li><a href="tools.html">Tools</a></li>
+            </ul>
+        </nav>
+
+        <a href="#cta" class="btn btn-nav">Get Started</a>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+        <div class="hero-content">
+
+            <div class="hero-text">
+                <p class="label">Built for people starting over in a new country</p>
+
+                <h1>Your financial guide<br>to life in America.</h1>
+
+                <p class="hero-subtitle">
+                    Navigating a new country is hard enough.
+                    Learning its finances shouldn't be.
+                </p>
+
+                <p class="hero-description">
+                    PennyWise turns banking, credit, and taxes into lessons and tools
+                    you can actually use — no credit history or long paperwork
+                    required to start.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#learn" class="btn btn-dark">Start learning</a>
+                    <a href="#tools" class="btn btn-outline">Try the simulator</a>
+                </div>
+
+                <p class="hero-note">
+                    It's free, available in seven languages, and doesn't require a
+                    credit history to start.
+                </p>
+            </div>
+
+
+            <!-- DASHBOARD MOCKUP -->
+            <div class="hero-visual">
+
+                <div class="dashboard">
+
+                    <div class="dashboard-header">
+                        <strong>PennyWise</strong>
+                        <span>Account</span>
+                    </div>
+
+                    <div class="dashboard-body">
+
+                        <aside class="dashboard-sidebar">
+                            <span class="active">Dashboard</span>
+                            <span>Learn</span>
+                            <span>My Money</span>
+                            <span>Goals</span>
+                            <span>Tools</span>
+                            <span>Profile</span>
+                        </aside>
+
+                        <main class="dashboard-main">
+
+                            <div class="score-card">
+                                <p>Your Financial Foundation</p>
+                                <div class="score">74<span>/100</span></div>
+                                <small>Good progress</small>
+                            </div>
+
+                            <div class="stats">
+
+                                <div>
+                                    <small>Monthly Income</small>
+                                    <strong>$3,500</strong>
+                                </div>
+
+                                <div>
+                                    <small>Monthly Expenses</small>
+                                    <strong>$2,200</strong>
+                                </div>
+
+                                <div>
+                                    <small>Savings</small>
+                                    <strong>$5,200</strong>
+                                </div>
+
+                                <div>
+                                    <small>Emergency Fund</small>
+                                    <strong>24 months</strong>
+                                </div>
+
+                            </div>
+
+                            <h4>Your Goals</h4>
+
+                            <div class="goal">
+                                <span class="goal-mark goal-mark--a" aria-hidden="true"></span>
+                                <div>
+                                    <strong>Build Emergency Fund</strong>
+                                    <div class="progress">
+                                        <span style="width: 72%;"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="goal">
+                                <span class="goal-mark goal-mark--b" aria-hidden="true"></span>
+                                <div>
+                                    <strong>Plan for the Future</strong>
+                                    <div class="progress">
+                                        <span style="width: 45%;"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </main>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <!-- FEATURES -->
+    <section class="features-section" id="learn">
+
+        <div class="section-heading">
+            <p class="label">What's inside</p>
+            <h2>Learn it. Use it. Plan with it.</h2>
+            <p>
+                Six essentials for building a financial foundation in a new country.
+            </p>
+        </div>
+
+        <div class="features-grid">
+
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5.5c2.5-1 5-1 7 .5v13c-2-1.5-4.5-1.5-7-.5z"/><path d="M21 5.5c-2.5-1-5-1-7 .5v13c2-1.5 4.5-1.5 7-.5z"/></svg>
+                </span>
+                <h3>Financial Roadmap</h3>
+                <p>Banking, credit, taxes, and investing, explained in plain language.</p>
+            </article>
+
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v6"/><path d="M12 9l-6 6"/><path d="M12 9l6 6"/><circle cx="6" cy="18" r="2.2"/><circle cx="18" cy="18" r="2.2"/></svg>
+                </span>
+                <h3>Decision Simulator</h3>
+                <p>See how a purchase or a paycheck change plays out before you make it.</p>
+            </article>
+
+            <article class="feature-card" id="goals">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></svg>
+                </span>
+                <h3>Financial Goals</h3>
+                <p>Set a goal, track it over time, and adjust as life changes.</p>
+            </article>
+
+            <article class="feature-card" id="my_money">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6.5" width="18" height="12" rx="2"/><path d="M3 10h18"/><circle cx="16.5" cy="14" r="1" fill="currentColor" stroke="none"/></svg>
+                </span>
+                <h3>My Money</h3>
+                <p>One place to see your income, spending, savings, and debt.</p>
+            </article>
+
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16l5-5 4 3 7-8"/><path d="M15 6h5v5"/></svg>
+                </span>
+                <h3>Investment Tools</h3>
+                <p>Compound growth, 401(k)s, and Roth IRAs, without the jargon.</p>
+            </article>
+
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.5 2.5 2.5 14.5 0 17"/><path d="M12 3.5c-2.5 2.5-2.5 14.5 0 17"/></svg>
+                </span>
+                <h3>Multilingual</h3>
+                <p>Learn the same lessons in the language you think in.</p>
+            </article>
+
+        </div>
+    </section>
+
+
+    <!-- SIMULATOR -->
+    <section class="decision-section" id="tools">
+
+        <div class="decision-text">
+            <p class="label">Before you decide</p>
+
+            <h2>Explore your decisions.</h2>
+
+            <p>
+                Thinking about a big purchase? See how it moves your savings,
+                your monthly budget, and your goals — before you commit.
+            </p>
+
+            <a href="#" class="btn btn-dark">Try the simulator</a>
+        </div>
+
+
+        <div class="simulator">
+
+            <div class="simulator-header">
+                <strong>Simulate a Purchase</strong>
+            </div>
+
+            <div class="price">
+                Purchase Price
+                <strong>$1,500</strong>
+            </div>
+
+            <div class="slider">
+                <span></span>
+            </div>
+
+            <div class="slider-labels">
+                <span>Before</span>
+                <span>After</span>
+            </div>
+
+            <div class="simulator-stats">
+
+                <div>
+                    <small>Savings</small>
+                    <span>$5,200 → $3,700</span>
+                </div>
+
+                <div>
+                    <small>Emergency Fund</small>
+                    <span>24 months → 17 months</span>
+                </div>
+
+                <div>
+                    <small>Goal Date</small>
+                    <span>Sep 2027 → Dec 2027</span>
+                </div>
+
+            </div>
+
+            <p class="simulator-note">Estimate only. Not financial advice.</p>
+
+        </div>
+
+    </section>
+
+
+    <!-- LANGUAGES -->
+    <section class="languages">
+
+        <div class="section-heading">
+            <p class="label">In your language</p>
+
+            <h2>Because opportunity is for everyone.</h2>
+
+            <p>
+                Access our lessons and tools in the language you're most
+                comfortable with.
+            </p>
+        </div>
+
+        <ul class="language-list">
+            <li class="lang-chip">English</li>
+            <li class="lang-chip">Español</li>
+            <li class="lang-chip">中文</li>
+            <li class="lang-chip">Français</li>
+            <li class="lang-chip">日本語</li>
+            <li class="lang-chip">한국어</li>
+            <li class="lang-chip">नेपाली</li>
+        </ul>
+
+    </section>
+
+
+    <!-- MISSION -->
+    <section class="mission" id="about_us">
+
+        <div class="mission-text">
+
+            <p class="label">Why we built this</p>
+
+            <h2>
+                Financial knowledge<br>
+                shouldn't be a barrier to opportunity.
+            </h2>
+
+            <p>
+                We built PennyWise to make the U.S. financial system easier to
+                navigate for immigrants, newcomers, and anyone starting fresh.
+                It brings education, practical tools, and personal planning
+                together in one place.
+            </p>
+
+            <a href="#" class="btn btn-dark">Learn more about our mission</a>
+
+        </div>
+
+
+        <div class="mission-values">
+
+            <div class="mission-value">
+                <strong>A more informed community</strong>
+            </div>
+
+            <div class="mission-value">
+                <strong>Stronger financial futures</strong>
+            </div>
+
+            <div class="mission-value">
+                <strong>Greater opportunity</strong>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CTA -->
+    <section class="cta" id="cta">
+
+        <div class="cta-brand">
+            <div class="brand-mark" aria-hidden="true">P</div>
+
+            <div>
+                <h3>PennyWise</h3>
+                <p>Learn. Plan. Grow.</p>
+            </div>
+        </div>
+
+        <div class="cta-content">
+            <h2>Ready to build your financial foundation?</h2>
+            <p>
+                Understand your options. Plan your future.
+            </p>
+
+            <a href="#" class="btn btn-light">Get started</a>
+        </div>
+
+        <p class="cta-note">
+            A brighter tomorrow starts with what you learn today.
+        </p>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div class="footer-links">
+            <a href="#learn">Learn</a>
+            <a href="#tools">Tools</a>
+            <a href="#about_us">About</a>
+            <a href="#">Contact</a>
+            <a href="#">FAQ</a>
+        </div>
+
+        <div class="footer-languages">
+            <span>English</span>
+            <span>Español</span>
+            <span>中文</span>
+            <span>Français</span>
+            <span>日本語</span>
+            <span>한국어</span>
+        </div>
+
+        <div class="footer-copy">
+            © 2026 PennyWise. All rights reserved.
+        </div>
+
+    </footer>
+
 </body>
-<!-- This is what youll need to use to call java backend -->
-<!-- this whole part -->
-
 </html>
