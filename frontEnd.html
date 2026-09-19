@@ -4,41 +4,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PennyWise</title>
+    <title>PennyWise — Your financial guide to life in America</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="frontEnd.css">
 </head>
 
 <body>
-	
-	<header class="header">
-		<a href="#started" class="logo">Get Started</a>
 
-		
-		<nav class="navbar">
-			<a href="#home" class="active">Home</a>
-			<a href="#about_us">About Us</a>
-			<a href="#my_money">My Money</a>
-			<a href="#learn">Learn</a>
-			<a href="#goals">Goals</a>
-			<a href="#tools">Tools</a>
-		</nav>
-	
-	</header>
-	
-	<section class="home" id="home">
-		<div class="home-content">
-			<h1>PennyWise,</h1>
-			<div class="text-animate">
-				<h3>Hi There,</h3>
-			</div>
-			<p>Lorem Ipsum</p>
-			
+    <header class="header">
+        <a href="#home" class="logo">PennyWise</a>
 
-    <section class="hero">
+        <nav class="navbar" aria-label="Primary">
+            <ul>
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#about_us">About Us</a></li>
+                <li><a href="#my_money">My Money</a></li>
+                <li><a href="#learn">Learn</a></li>
+                <li><a href="#goals">Goals</a></li>
+                <li><a href="#tools">Tools</a></li>
+            </ul>
+        </nav>
+
+        <a href="#cta" class="btn btn-nav">Get Started</a>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
         <div class="hero-content">
 
             <div class="hero-text">
-                <p class="eyebrow">LOREM IPSUM</p>
+                <p class="label">Built for people starting over in a new country</p>
 
                 <h1>Your financial guide<br>to life in America.</h1>
 
@@ -48,29 +46,20 @@
                 </p>
 
                 <p class="hero-description">
-                    PennyWise helps you learn, understand, and plan your finances
-                    with simple lessons and interactive tools — so you can make
-                    smarter decisions and build a brighter future.
+                    PennyWise turns banking, credit, and taxes into lessons and tools
+                    you can actually use — no credit history or long paperwork
+                    required to start.
                 </p>
 
                 <div class="hero-buttons">
-                    <a href="#" class="btn btn-dark">Get Started →</a>
-                    <a href="#" class="btn btn-outline">Explore Features</a>
+                    <a href="#learn" class="btn btn-dark">Start learning</a>
+                    <a href="#tools" class="btn btn-outline">Try the simulator</a>
                 </div>
 
-                <div class="community">
-                    <div class="avatars">
-                        <span>b</span>
-                        <span>c</span>
-                        <span>d</span>
-                        <span>e</span>
-                    </div>
-
-                    <p>
-                        Join a growing community<br>
-                        building brighter futures
-                    </p>
-                </div>
+                <p class="hero-note">
+                    It's free, available in seven languages, and doesn't require a
+                    credit history to start.
+                </p>
             </div>
 
 
@@ -80,8 +69,8 @@
                 <div class="dashboard">
 
                     <div class="dashboard-header">
-                        <strong>🌱 PennyWise</strong>
-                        <span>Account ▾</span>
+                        <strong>PennyWise</strong>
+                        <span>Account</span>
                     </div>
 
                     <div class="dashboard-body">
@@ -130,7 +119,7 @@
                             <h4>Your Goals</h4>
 
                             <div class="goal">
-                                <span>🌱</span>
+                                <span class="goal-mark goal-mark--a" aria-hidden="true"></span>
                                 <div>
                                     <strong>Build Emergency Fund</strong>
                                     <div class="progress">
@@ -140,7 +129,7 @@
                             </div>
 
                             <div class="goal">
-                                <span>🏡</span>
+                                <span class="goal-mark goal-mark--b" aria-hidden="true"></span>
                                 <div>
                                     <strong>Plan for the Future</strong>
                                     <div class="progress">
@@ -153,98 +142,90 @@
                     </div>
                 </div>
 
-                <div class="annotation">
-                    Knowledge today<br>
-                    → Opportunity tomorrow
-                </div>
-
             </div>
         </div>
     </section>
 
 
     <!-- FEATURES -->
-    <section class="features-section">
+    <section class="features-section" id="learn">
 
         <div class="section-heading">
-            <p class="eyebrow">HOW PENNYWISE HELPS</p>
-            <h2>Learn. Understand. Plan.</h2>
+            <p class="label">What's inside</p>
+            <h2>Learn it. Use it. Plan with it.</h2>
             <p>
-                Essential knowledge and practical tools for real-life financial decisions.
+                Six essentials for building a financial foundation in a new country.
             </p>
         </div>
 
         <div class="features-grid">
 
-            <div class="feature-card">
-                <div class="feature-icon">📖</div>
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5.5c2.5-1 5-1 7 .5v13c-2-1.5-4.5-1.5-7-.5z"/><path d="M21 5.5c-2.5-1-5-1-7 .5v13c2-1.5 4.5-1.5 7-.5z"/></svg>
+                </span>
                 <h3>Financial Roadmap</h3>
-                <p>
-                    Learn banking, credit, taxes, investing, and more.
-                </p>
-            </div>
+                <p>Banking, credit, taxes, and investing, explained in plain language.</p>
+            </article>
 
-            <div class="feature-card">
-                <div class="feature-icon">▦</div>
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v6"/><path d="M12 9l-6 6"/><path d="M12 9l6 6"/><circle cx="6" cy="18" r="2.2"/><circle cx="18" cy="18" r="2.2"/></svg>
+                </span>
                 <h3>Decision Simulator</h3>
-                <p>
-                    See how different choices could affect your financial future.
-                </p>
-            </div>
+                <p>See how a purchase or a paycheck change plays out before you make it.</p>
+            </article>
 
-            <div class="feature-card">
-                <div class="feature-icon">🎯</div>
+            <article class="feature-card" id="goals">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></svg>
+                </span>
                 <h3>Financial Goals</h3>
-                <p>
-                    Set goals and track your progress.
-                </p>
-            </div>
+                <p>Set a goal, track it over time, and adjust as life changes.</p>
+            </article>
 
-            <div class="feature-card">
-                <div class="feature-icon">▥</div>
+            <article class="feature-card" id="my_money">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6.5" width="18" height="12" rx="2"/><path d="M3 10h18"/><circle cx="16.5" cy="14" r="1" fill="currentColor" stroke="none"/></svg>
+                </span>
                 <h3>My Money</h3>
-                <p>
-                    Understand your income, spending, savings, and debt.
-                </p>
-            </div>
+                <p>One place to see your income, spending, savings, and debt.</p>
+            </article>
 
-            <div class="feature-card">
-                <div class="feature-icon">🌱</div>
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16l5-5 4 3 7-8"/><path d="M15 6h5v5"/></svg>
+                </span>
                 <h3>Investment Tools</h3>
-                <p>
-                    Explore compound growth, 401(k)s, Roth IRAs, and more.
-                </p>
-            </div>
+                <p>Compound growth, 401(k)s, and Roth IRAs, without the jargon.</p>
+            </article>
 
-            <div class="feature-card">
-                <div class="feature-icon">◎</div>
+            <article class="feature-card">
+                <span class="feature-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.5 2.5 2.5 14.5 0 17"/><path d="M12 3.5c-2.5 2.5-2.5 14.5 0 17"/></svg>
+                </span>
                 <h3>Multilingual</h3>
-                <p>
-                    Learn financial concepts in your preferred language.
-                </p>
-            </div>
+                <p>Learn the same lessons in the language you think in.</p>
+            </article>
 
         </div>
     </section>
 
 
     <!-- SIMULATOR -->
-    <section class="decision-section">
+    <section class="decision-section" id="tools">
 
         <div class="decision-text">
-            <p class="eyebrow">DON'T JUST LEARN ABOUT MONEY.</p>
+            <p class="label">Before you decide</p>
 
             <h2>Explore your decisions.</h2>
 
             <p>
-                Thinking about a big purchase? See how it could affect
-                your savings, monthly budget, and goals — before you make
-                the decision.
+                Thinking about a big purchase? See how it moves your savings,
+                your monthly budget, and your goals — before you commit.
             </p>
 
-            <a href="#" class="btn btn-dark">
-                Try the Simulator →
-            </a>
+            <a href="#" class="btn btn-dark">Try the simulator</a>
         </div>
 
 
@@ -287,10 +268,7 @@
 
             </div>
 
-            <div class="simulator-note">
-                Smarter decisions.<br>
-                A brighter tomorrow.
-            </div>
+            <p class="simulator-note">Estimate only. Not financial advice.</p>
 
         </div>
 
@@ -301,63 +279,35 @@
     <section class="languages">
 
         <div class="section-heading">
-            <p class="eyebrow">FINANCIAL EDUCATION IN YOUR LANGUAGE</p>
+            <p class="label">In your language</p>
 
             <h2>Because opportunity is for everyone.</h2>
 
             <p>
-                Access our lessons and tools in multiple languages.
+                Access our lessons and tools in the language you're most
+                comfortable with.
             </p>
         </div>
 
-        <div class="language-list">
-
-            <div>
-                <span>🇺🇸</span>
-                <strong>English</strong>
-            </div>
-
-            <div>
-                <span>🇪🇸</span>
-                <strong>Español</strong>
-            </div>
-
-            <div>
-                <span>🇨🇳</span>
-                <strong>中文</strong>
-            </div>
-
-            <div>
-                <span>🇫🇷</span>
-                <strong>Français</strong>
-            </div>
-
-            <div>
-                <span>🇯🇵</span>
-                <strong>日本語</strong>
-            </div>
-
-            <div>
-                <span>🇰🇷</span>
-                <strong>한국어</strong>
-            </div>
-
-            <div>
-                <span>🇳🇵</span>
-                <strong>नेपाली</strong>
-            </div>
-
-        </div>
+        <ul class="language-list">
+            <li class="lang-chip">English</li>
+            <li class="lang-chip">Español</li>
+            <li class="lang-chip">中文</li>
+            <li class="lang-chip">Français</li>
+            <li class="lang-chip">日本語</li>
+            <li class="lang-chip">한국어</li>
+            <li class="lang-chip">नेपाली</li>
+        </ul>
 
     </section>
 
 
     <!-- MISSION -->
-    <section class="mission">
+    <section class="mission" id="about_us">
 
         <div class="mission-text">
 
-            <p class="eyebrow">OUR MISSION</p>
+            <p class="label">Why we built this</p>
 
             <h2>
                 Financial knowledge<br>
@@ -365,33 +315,28 @@
             </h2>
 
             <p>
-                We built PennyWise to make the U.S. financial system more
-                approachable for immigrants, newcomers, and everyone.
-                Our goal is to combine education, practical tools, and
-                personalized planning into one accessible platform.
+                We built PennyWise to make the U.S. financial system easier to
+                navigate for immigrants, newcomers, and anyone starting fresh.
+                It brings education, practical tools, and personal planning
+                together in one place.
             </p>
 
-            <a href="#" class="btn btn-dark">
-                Learn More About Our Mission →
-            </a>
+            <a href="#" class="btn btn-dark">Learn more about our mission</a>
 
         </div>
 
 
         <div class="mission-values">
 
-            <div>
-                <span>👥</span>
+            <div class="mission-value">
                 <strong>A more informed community</strong>
             </div>
 
-            <div>
-                <span>📈</span>
+            <div class="mission-value">
                 <strong>Stronger financial futures</strong>
             </div>
 
-            <div>
-                <span>♥</span>
+            <div class="mission-value">
                 <strong>Greater opportunity</strong>
             </div>
 
@@ -401,10 +346,10 @@
 
 
     <!-- CTA -->
-    <section class="cta">
+    <section class="cta" id="cta">
 
         <div class="cta-brand">
-            <div class="logo">🌱</div>
+            <div class="brand-mark" aria-hidden="true">P</div>
 
             <div>
                 <h3>PennyWise</h3>
@@ -418,15 +363,12 @@
                 Understand your options. Plan your future.
             </p>
 
-            <a href="#" class="btn btn-light">
-                Get Started →
-            </a>
+            <a href="#" class="btn btn-light">Get started</a>
         </div>
 
-        <div class="cta-note">
-            A brighter tomorrow starts<br>
-            with what you learn today.
-        </div>
+        <p class="cta-note">
+            A brighter tomorrow starts with what you learn today.
+        </p>
 
     </section>
 
@@ -434,20 +376,24 @@
     <!-- FOOTER -->
     <footer>
 
-        <div>
-            <a href="#">Learn</a>
-            <a href="#">Tools</a>
-            <a href="#">About</a>
+        <div class="footer-links">
+            <a href="#learn">Learn</a>
+            <a href="#tools">Tools</a>
+            <a href="#about_us">About</a>
             <a href="#">Contact</a>
             <a href="#">FAQ</a>
         </div>
 
-        <div>
-            English &nbsp; Español &nbsp; 中文 &nbsp; Français
-            &nbsp; 日本語 &nbsp; 한국어
+        <div class="footer-languages">
+            <span>English</span>
+            <span>Español</span>
+            <span>中文</span>
+            <span>Français</span>
+            <span>日本語</span>
+            <span>한국어</span>
         </div>
 
-        <div>
+        <div class="footer-copy">
             © 2026 PennyWise. All rights reserved.
         </div>
 
