@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+html lang="en">
+head>
+title>My Financial App</title>
+/head>
+body>
+<h1>Connect Your Bank</h1>
+<button id="connect-btn">Link Account</button>
+
+<script>
+    document.getElementById('connect-btn').addEventListener('click', async () =>
+    {
+        // Call your Java backend running on port 8080
+        const response = await fetch('http://localhost:8080/api/token');
+        const data = await response.json();
+
+        console.log("Received token from Java:", data.link_token);
+        alert("Got token: " + data.link_token);
+    });
+</script>
+/body>
+
+</html>
