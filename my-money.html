@@ -1,72 +1,156 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Money — PennyWise</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="pennywise.css">
-</head><body>
-<header class="header">
-    <a href="frontEnd.html" class="logo">PennyWise</a>
-    <nav class="navbar" aria-label="Primary">
-        <ul>
-            <li><a href="frontEnd.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="my-money.html">My Money</a></li>
-            <li><a href="learn.html">Learn</a></li>
-            <li><a href="goals.html">Goals</a></li>
-            <li><a href="tools.html">Tools</a></li>
-        </ul>
-    </nav>
-    <a href="tools.html" class="btn btn-nav">Get Started</a>
-</header>
+<html lang="en">
 
-<main>
-<section class="page-hero"><div class="page-hero-inner">
-<p class="label">Your financial snapshot</p><h1>Know where your money stands.</h1><p>Track income, expenses, savings, debt, and credit in one simple view.</p>
-</div></section>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Money — PennyWise</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="pennywise.css">
+</head>
 
-<section class="page-section"><div class="page-container">
-<div class="dashboard-page">
-<div class="panel"><p class="label">Financial snapshot</p><h3>My Money</h3>
-<div class="form-grid">
-<div class="field"><label>Monthly income</label><input id="income" type="number" value="3500"></div>
-<div class="field"><label>Monthly expenses</label><input id="expenses" type="number" value="2200"></div>
-<div class="field"><label>Total savings</label><input id="savings" type="number" value="5200"></div>
-<div class="field"><label>Total debt</label><input id="debt" type="number" value="1000"></div>
-<div class="field"><label>Credit score</label><input id="credit" type="number" value="720"></div>
-</div><div class="form-actions"><button class="btn btn-dark" onclick="updateMoney()">Update overview</button></div></div>
-<div class="panel"><p class="label">Overview</p><h3>Your numbers</h3><div class="metric-grid">
-<div class="metric"><small>Left after expenses</small><strong id="left">$1,300</strong></div>
-<div class="metric"><small>Savings rate</small><strong id="rate">37%</strong></div>
-<div class="metric"><small>Debt</small><strong id="debtOut">$1,000</strong></div>
-<div class="metric"><small>Credit score</small><strong id="creditOut">720</strong></div>
-</div></div>
-</div></div></section>
-<section class="page-section alt"><div class="page-container">
-<div class="page-heading"><p class="label">Track what matters</p><h2>Build your financial picture.</h2></div>
-<div class="content-grid">
-<div class="content-card"><h3>Income</h3><p>Track paychecks and other recurring income in one place.</p></div>
-<div class="content-card"><h3>Budget</h3><p>Compare what comes in with what goes out each month.</p></div>
-<div class="content-card"><h3>Savings</h3><p>See how your savings changes as you work toward your goals.</p></div>
-<div class="content-card"><h3>Debt</h3><p>Keep track of balances and payments so debt doesn't stay invisible.</p></div>
-<div class="content-card"><h3>Credit</h3><p>Record your credit score and learn the habits that can help build credit.</p></div>
-<div class="content-card"><h3>Financial health</h3><p>Bring your numbers together for a simple financial snapshot.</p></div>
-</div></div></section>
+<body>
+    <header class="header">
+        <a href="frontEnd.html" class="logo">PennyWise</a>
+        <nav class="navbar" aria-label="Primary">
+            <ul>
+                <li><a href="frontEnd.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="my-money.html">My Money</a></li>
+                <li><a href="learn.html">Learn</a></li>
+                <li><a href="goals.html">Goals</a></li>
+                <li><a href="tools.html">Tools</a></li>
+            </ul>
+        </nav>
+        <a href="tools.html" class="btn btn-nav">Get Started</a>
+    </header>
 
-</main>
-<footer>
-    <div class="footer-links">
-        <a href="learn.html">Learn</a><a href="tools.html">Tools</a><a href="about.html">About</a>
-        <a href="#">Contact</a><a href="#">FAQ</a>
-    </div>
-    <div class="footer-languages">
-        <span>English</span><span>Español</span><span>中文</span><span>Français</span><span>日本語</span><span>한국어</span>
-    </div>
-    <div class="footer-copy">© 2026 PennyWise. All rights reserved.</div>
-</footer>
-<script src="script.js"></script>
+    <main>
+        <section class="page-hero">
+            <div class="page-hero-inner">
+                <p class="label">Your financial snapshot</p>
+                <h1>Know where your money stands.</h1>
+                <p>Track income, expenses, savings, debt, and credit in one simple view.</p>
+            </div>
+        </section>
+
+        <section class="page-section">
+            <div class="page-container">
+                <div class="dashboard-page">
+                    <div class="panel">
+                        <p class="label">Financial snapshot</p>
+                        <h3>My Money</h3>
+                        <div class="form-grid">
+                            <div class="field"><label>Monthly income</label><input id="income" type="number"
+                                    value="3500"></div>
+                            <div class="field"><label>Monthly expenses</label><input id="expenses" type="number"
+                                    value="2200"></div>
+                            <div class="field"><label>Total savings</label><input id="savings" type="number"
+                                    value="5200"></div>
+                            <div class="field"><label>Total debt</label><input id="debt" type="number" value="1000">
+                            </div>
+                            <div class="field"><label>Credit score</label><input id="credit" type="number" value="720">
+                            </div>
+                        </div>
+                        <div class="form-actions"><button class="btn btn-dark" onclick="updateMoney()">Update
+                                overview</button></div>
+                    </div>
+                    <div class="panel">
+                        <p class="label">Overview</p>
+                        <h3>Your numbers</h3>
+                        <div class="metric-grid">
+                            <div class="metric"><small>Left after expenses</small><strong id="left">$1,300</strong>
+                            </div>
+                            <div class="metric"><small>Savings rate</small><strong id="rate">37%</strong></div>
+                            <div class="metric"><small>Debt</small><strong id="debtOut">$1,000</strong></div>
+                            <div class="metric"><small>Credit score</small><strong id="creditOut">720</strong></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="page-section">
+            <div class="page-container">
+                <div class="dashboard-page">
+                    <div class="panel">
+                        <p class="label">Transactions</p>
+                        <h3>Add an expense</h3>
+                        <form id="transaction-form" class="form-grid">
+                            <div class="field"><label>Amount</label><input id="transaction-amount" type="number"
+                                    min="0.01" step="0.01" required></div>
+                            <div class="field"><label>Description</label><input id="transaction-description" type="text"
+                                    required></div>
+                            <div class="field"><label>Category</label><input id="transaction-category" type="text"
+                                    required></div>
+                            <div class="field"><label>Date</label><input id="transaction-date" type="date" required>
+                            </div>
+                            <div class="form-actions"><button class="btn btn-dark" type="submit">Save expense</button>
+                            </div>
+                        </form>
+                        <p id="transaction-status"></p>
+                    </div>
+                    <div class="panel">
+                        <p class="label">Recent activity</p>
+                        <h3>Transactions</h3>
+                        <ul id="transaction-list"></ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="page-section alt">
+            <div class="page-container">
+                <div class="page-heading">
+                    <p class="label">Track what matters</p>
+                    <h2>Build your financial picture.</h2>
+                </div>
+                <div class="content-grid">
+                    <div class="content-card">
+                        <h3>Income</h3>
+                        <p>Track paychecks and other recurring income in one place.</p>
+                    </div>
+                    <div class="content-card">
+                        <h3>Budget</h3>
+                        <p>Compare what comes in with what goes out each month.</p>
+                    </div>
+                    <div class="content-card">
+                        <h3>Savings</h3>
+                        <p>See how your savings changes as you work toward your goals.</p>
+                    </div>
+                    <div class="content-card">
+                        <h3>Debt</h3>
+                        <p>Keep track of balances and payments so debt doesn't stay invisible.</p>
+                    </div>
+                    <div class="content-card">
+                        <h3>Credit</h3>
+                        <p>Record your credit score and learn the habits that can help build credit.</p>
+                    </div>
+                    <div class="content-card">
+                        <h3>Financial health</h3>
+                        <p>Bring your numbers together for a simple financial snapshot.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    <footer>
+        <div class="footer-links">
+            <a href="learn.html">Learn</a><a href="tools.html">Tools</a><a href="about.html">About</a>
+            <a href="#">Contact</a><a href="#">FAQ</a>
+        </div>
+        <div class="footer-languages">
+            <span>English</span><span>Español</span><span>中文</span><span>Français</span><span>日本語</span><span>한국어</span>
+        </div>
+        <div class="footer-copy">© 2026 PennyWise. All rights reserved.</div>
+    </footer>
+    <script src="script.js"></script>
 </body>
+
 </html>
-</body></html>
+</body>
+
+</html>

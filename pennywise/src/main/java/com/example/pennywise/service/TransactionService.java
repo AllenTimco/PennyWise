@@ -2,6 +2,7 @@ package com.example.pennywise.service;
 
 import com.example.pennywise.dto.CreateTransactionRequest;
 import com.example.pennywise.dto.TransactionResponse;
+import com.example.pennywise.dto.UpdateTransactionRequest;
 import com.example.pennywise.entity.Transaction;
 import com.example.pennywise.repository.TransactionRepository;
 import org.springframework.stereotype.Service;
@@ -41,6 +42,17 @@ public class TransactionService {
                 .orElseThrow(() -> new IllegalArgumentException("Transaction not found: " + id));
     }
 
+    public TransactionResponse update(Long id, UpdateTransactionRequest request) {
+        validate(request);
+        Transaction transaction = transactionRepository.findById(id)
+                .orElseThrow(() -> new IllegalArgumentException("Transaction not found: " + id));
+        transaction.setAmount(request.amount());
+        transaction.setDescription(request.description());
+        transaction.setCategory(request.category());
+        transaction.setTransactionDate(request.transactionDate());
+        return TransactionResponse.from(transactionRepository.save(transaction));
+    }
+
     public void delete(Long id) {
         if (!transactionRepository.existsById(id)) {
             throw new IllegalArgumentException("Transaction not found: " + id);
@@ -49,6 +61,18 @@ public class TransactionService {
     }
 
     private void validate(CreateTransactionRequest request) {
+        if (request == null || request.amount() == null || request.amount().compareTo(BigDecimal.ZERO) <= 0) {
+            throw new IllegalArgumentException("Amount must be greater than zero");
+        }
+        if (request.category() == null || request.category().isBlank()) {
+            throw new IllegalArgumentException("Category is required");
+        }
+        if (request.transactionDate() == null) {
+            throw new IllegalArgumentException("Transaction date is required");
+        }
+    }
+
+    private void validate(UpdateTransactionRequest request) {
         if (request == null || request.amount() == null || request.amount().compareTo(BigDecimal.ZERO) <= 0) {
             throw new IllegalArgumentException("Amount must be greater than zero");
         }
