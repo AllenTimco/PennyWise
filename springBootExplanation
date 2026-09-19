@@ -1,0 +1,41 @@
+Explanation of Spring Boot 
+
+I let VSCode make most of the starter files 
+heres a list
+.gitattributes
+.gitignore
+HELP.md
+mvnw
+mvnw
+mvnw.cmd
+pom.xml
+src/
+  main/
+    java/
+      com/
+        example/
+          pennywise/
+            PennywiseApplication.java
+
+  test/
+    java/
+      com/
+        example/
+          pennywise/
+            PennywiseApplicationTests.java
+
+PennywiseApplication.java - starts the Spring Boot application
+
+PennywiseApplicationTests.java - basic default test that checks the application context
+
+pom.xml - dependencies and build configuration
+
+application.properties - applicaiton settings
+
+mvnw.cmd - Maven wrapper commands
+
+.mvn/ - Maven wrapper configuration
+
+.gitignore and .gitattributes - Git settings
+
+HELP.md - generated reference links and setup notes
