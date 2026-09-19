@@ -1,0 +1,1453 @@
+PENNYWISE — LEARN CONTENT LIBRARY Research-based educational copy for
+the Learn tab All topics are open. No prerequisites. No locked lessons.
+
+IMPORTANT This material is for general financial education, not
+individualized legal, tax, investment, insurance, or credit advice.
+Rules, limits, rates, and eligibility requirements can change. PennyWise
+should link users to the relevant official source when a current number
+or personal situation matters.
+
+============================================================ 1. GETTING
+STARTED WITH MONEY IN THE U.S.
+============================================================
+
+1.1 THE U.S. FINANCIAL SYSTEM The U.S. financial system includes banks,
+credit unions, lenders, credit-reporting companies, investment firms,
+insurance companies, employers, and government agencies. Different
+organizations do different jobs: banks and credit unions hold deposits
+and provide payment services; lenders extend credit; investment firms
+provide access to securities; insurers transfer specified risks; and
+agencies such as the CFPB, FDIC, IRS, SEC, and FTC provide rules,
+oversight, or consumer information.
+
+1.2 IMPORTANT FINANCIAL DOCUMENTS An SSN is a Social Security number
+used for Social Security records and many identification or tax-related
+purposes. An ITIN is an IRS tax-processing number for certain people who
+need a U.S. taxpayer identification number but are not eligible for an
+SSN. A W-4 tells an employer how to calculate federal income-tax
+withholding. A W-2 reports wages and taxes withheld from an employee,
+while various Forms 1099 report certain kinds of non-wage income. Bank
+statements and pay stubs help you verify transactions, income,
+deductions, and balances.
+
+1.3 IMPORTANT FINANCIAL TERMS Income is money received. Gross income or
+gross pay is generally income before applicable deductions; net pay is
+what remains on a paycheck after deductions. An asset is something of
+economic value you own, while a liability is an obligation you owe. Net
+worth is assets minus liabilities. Principal is the amount borrowed or
+invested before interest. Interest is the cost of borrowing or a return
+paid on certain savings. APR expresses certain borrowing costs as an
+annual rate, while APY reflects interest earned on a deposit account and
+the effect of compounding.
+
+1.4 BUILDING YOUR FINANCIAL FOUNDATION A useful starting point is
+knowing what comes in, what goes out, what you own, and what you owe.
+Track income and recurring expenses, build savings for unexpected costs,
+understand the terms of any debt, and choose goals that can be measured.
+A budget is not a punishment; it is a plan for directing limited money
+toward current needs and future priorities.
+
+1.5 NEW TO THE UNITED STATES? You may encounter unfamiliar systems
+involving credit histories, employer benefits, tax withholding, health
+insurance, banking, and leases. You do not need to learn everything at
+once. Start with immediate needs—safe banking, understanding your
+paycheck and bills, protecting personal information, and learning how
+credit works—then explore taxes, insurance, investing, and retirement as
+they become relevant.
+
+============================================================ 2. BANKING
+============================================================
+
+2.1 WHAT IS A BANK? A bank accepts deposits and may provide checking
+accounts, savings accounts, payment services, and loans. Banks make it
+easier to store money, receive direct deposits, pay bills, and move
+funds. If a bank is FDIC-insured, eligible deposit accounts receive
+federal deposit insurance within applicable limits.
+
+2.2 BANKS VS. CREDIT UNIONS Banks and credit unions can both offer
+deposit accounts, cards, and loans. Credit unions are member-owned
+institutions and generally require membership based on their eligibility
+rules. Federally insured credit unions generally receive deposit
+insurance through the National Credit Union Share Insurance Fund
+administered by the NCUA, while eligible deposits at FDIC-insured banks
+are insured by the FDIC.
+
+2.3 CHECKING ACCOUNTS Checking accounts are transaction accounts
+designed for frequent deposits and withdrawals. They are commonly used
+for direct deposit, debit-card purchases, checks, ATM withdrawals, and
+bill payments. Compare monthly fees, overdraft policies, ATM access,
+minimum-balance requirements, and interest before choosing one.
+
+2.4 SAVINGS ACCOUNTS Savings accounts are designed to hold money you do
+not expect to spend as frequently. They may pay interest, usually
+expressed using APY. Savings accounts can be useful for emergency
+savings, short-term goals, or money you want separated from everyday
+spending.
+
+2.5 OPENING A BANK ACCOUNT A financial institution generally verifies
+identity and asks for information required by law and its own policies.
+Requirements vary, so a newcomer should ask the institution which
+identification and taxpayer information it accepts. Before opening an
+account, review the fee schedule, minimum balance, ATM access, overdraft
+options, interest or APY, and deposit-insurance status.
+
+2.6 FDIC INSURANCE FDIC insurance protects eligible deposits if an
+FDIC-insured bank fails. The standard insurance amount is $250,000 per
+depositor, per insured bank, per ownership category. Covered products
+include checking accounts, savings accounts, money-market deposit
+accounts, and CDs. Stocks, bonds, mutual funds, crypto assets,
+annuities, and life-insurance policies are not FDIC-insured merely
+because a bank sells them.
+
+2.7 DEBIT CARDS A debit card normally accesses money in a linked deposit
+account rather than borrowing from a credit-card issuer. Purchases and
+withdrawals reduce available funds. Monitor transactions, protect the
+PIN, report unauthorized activity promptly, and understand any overdraft
+settings.
+
+2.8 ATMS ATMs allow users to withdraw cash and may also support
+deposits, balance inquiries, or transfers. Using an ATM outside your
+bank’s network can result in fees from your bank, the ATM operator, or
+both. Check the machine for signs of tampering and shield your PIN.
+
+2.9 DIRECT DEPOSIT Direct deposit electronically sends wages or other
+payments into a bank or credit-union account. It can reduce reliance on
+paper checks and make funds easier to access. Verify routing and account
+numbers carefully when setting it up.
+
+2.10 BANK FEES Possible fees include monthly maintenance, out-of-network
+ATM, overdraft, insufficient-funds, wire-transfer, and stop-payment
+fees. Fee structures vary widely. Read the account disclosures and
+compare accounts instead of assuming every checking account is free.
+
+2.11 ONLINE AND MOBILE BANKING Online banking can let you check
+balances, transfer funds, deposit checks, and pay bills. Use strong
+unique passwords, enable multifactor authentication when available, and
+avoid entering banking credentials through links in unexpected texts or
+emails.
+
+2.12 CERTIFICATES OF DEPOSIT A certificate of deposit, or CD, generally
+pays interest in exchange for leaving money deposited for an agreed
+term. Withdrawing before maturity can trigger an early-withdrawal
+penalty. Compare APY, term length, penalties, and whether the bank is
+FDIC-insured.
+
+2.13 BANK ACCOUNT SAFETY Review statements and alerts regularly, use
+official banking apps or websites, and protect login credentials. Be
+skeptical of anyone asking for passwords, one-time security codes, gift
+cards, cryptocurrency, or urgent transfers. If you see an unauthorized
+transaction, contact the financial institution promptly.
+
+============================================================ 3. CREDIT
+============================================================
+
+3.1 WHAT IS CREDIT? Credit lets you borrow money or obtain goods or
+services now with an agreement to repay later. Common examples include
+credit cards, auto loans, mortgages, personal loans, and student loans.
+Borrowing can involve interest and fees, and repayment behavior can
+become part of your credit history.
+
+3.2 WHY CREDIT MATTERS Lenders can use credit information when deciding
+whether to approve an application and what terms to offer. Credit
+reports may also be used for certain other legally permitted purposes.
+Having little or no U.S. credit history is not the same as having bad
+credit; it may simply mean there is not enough reported information yet.
+
+3.3 CREDIT REPORTS A credit report contains information about your
+credit accounts and payment history. The three nationwide
+credit-reporting companies are Equifax, Experian, and TransUnion. Review
+reports for unfamiliar accounts, incorrect balances or payment
+histories, and other errors.
+
+3.4 CREDIT SCORES A credit score is calculated from information in a
+credit report to estimate credit risk. There are multiple scoring
+models, so consumers can have more than one score. Income itself is not
+a credit-score factor, and a credit score is not a measure of personal
+worth or overall financial success.
+
+3.5 FACTORS THAT CAN AFFECT CREDIT Scoring models can consider payment
+history, balances relative to available credit, length of credit
+history, account types, and recent applications. Exact formulas differ
+by model. PennyWise should not promise that any action will raise a
+score by a specific number of points.
+
+3.6 BUILDING CREDIT FROM SCRATCH Possible starting tools include secured
+credit cards and certain credit-building loans. Before opening a
+product, compare fees, interest, deposit requirements, and whether
+activity is reported to nationwide credit-reporting companies. Paying
+obligations on time is central to establishing a positive history.
+
+3.7 CREDIT CARDS A credit card is revolving credit. Important terms
+include credit limit, current balance, statement balance, minimum
+payment, due date, APR, fees, and any grace period. Paying only the
+minimum can make repayment take longer and increase interest costs.
+
+3.8 APR AND INTEREST APR expresses a borrowing rate on an annual basis,
+although the exact cost depends on the account terms and how balances
+are calculated. Cards can have different APRs for purchases, cash
+advances, and balance transfers. Read the agreement instead of assuming
+all transactions receive the same rate or grace period.
+
+3.9 CREDIT UTILIZATION Credit utilization compares revolving balances
+with credit limits. A $250 balance on a $1,000 limit equals 25%
+utilization. Scoring models consider how close balances are to limits.
+The often-repeated 30% figure is not a magical cutoff; lower use of
+available revolving credit generally reduces this particular risk
+signal.
+
+3.10 SECURED CREDIT CARDS A secured card generally requires a refundable
+security deposit that helps protect the issuer. It can be useful for
+someone with limited or damaged credit, but it is still a credit card
+with payment obligations, possible interest, and fees. Check reporting
+practices before applying.
+
+3.11 AUTHORIZED USERS An authorized user has permission to use another
+person’s credit-card account but is not necessarily responsible for the
+debt in the same way as the primary account holder. Reporting practices
+vary by issuer. Becoming an authorized user should not be presented as a
+guaranteed way to achieve a particular score.
+
+3.12 HARD VS. SOFT INQUIRIES A hard inquiry commonly occurs when you
+apply for credit and can affect a credit score. Soft inquiries can
+include checking your own report and certain account reviews or
+prescreening. Checking your own credit report does not hurt your score.
+
+3.13 LATE PAYMENTS Payment history is an important credit-scoring
+factor. Missing required payments can result in fees and can damage
+credit history. Calendar reminders and autopay can help, but users
+should still monitor balances and ensure enough money is available.
+
+3.14 CHECKING YOUR CREDIT REPORTS AnnualCreditReport.com is the
+federally authorized website for obtaining reports from the nationwide
+credit-reporting companies. Checking your own report does not lower your
+score. Review reports regularly for errors or signs of identity theft.
+
+3.15 CREDIT REPORT ERRORS If information is wrong, dispute it with the
+credit-reporting company and the business that supplied the information.
+Clearly identify the item, explain why it is wrong, and provide
+supporting documents when available. Keep copies of correspondence and
+records.
+
+3.16 HEALTHY CREDIT HABITS Pay required bills on time, keep revolving
+balances manageable, avoid unnecessary applications, review reports, and
+understand account terms. You do not need to carry an interest-bearing
+credit-card balance to build credit. Strong credit history develops
+through consistent behavior over time.
+
+3.17 COMMON CREDIT MYTHS Checking your own report does not hurt your
+score. Carrying a balance is not required to build credit. Closing a
+card does not automatically improve credit because it can reduce
+available revolving credit. A single universal credit score does not
+exist, and 30% utilization is not an absolute pass/fail boundary.
+
+============================================================ 4.
+BUDGETING & SPENDING
+============================================================
+
+4.1 WHAT IS A BUDGET? A budget is a plan for income, spending, saving,
+and debt payments over a period of time. It helps show whether current
+spending fits available income and priorities.
+
+4.2 INCOME VS. EXPENSES Income is money coming in; expenses are money
+going out. When income exceeds expenses, the difference can be saved,
+invested, or used for goals and debt. When expenses repeatedly exceed
+income, savings or borrowing must cover the gap.
+
+4.3 FIXED EXPENSES Fixed expenses are relatively predictable recurring
+costs such as rent or a fixed loan payment. They are not always
+permanently fixed, but they are usually easier to forecast than variable
+spending.
+
+4.4 VARIABLE EXPENSES Variable expenses change from period to period.
+Food, gasoline, entertainment, utilities, and shopping can fluctuate,
+making them important categories to track.
+
+4.5 NEEDS VS. WANTS Needs are expenses necessary for basic living or
+obligations; wants improve comfort or enjoyment. The line can differ by
+person and circumstance. The goal is not to shame spending but to
+understand tradeoffs.
+
+4.6 BUILDING A MONTHLY BUDGET List reliable monthly income, required
+bills, typical variable expenses, debt payments, savings, and irregular
+costs. If totals do not fit, adjust categories or goals until the plan
+is realistic.
+
+4.7 TRACKING SPENDING Tracking transactions reveals where money actually
+goes instead of relying on memory. Grouping purchases into categories
+can expose patterns and make future budgets more accurate.
+
+4.8 CASH FLOW Cash flow is the movement of money in and out. Positive
+monthly cash flow means inflows exceed outflows; negative cash flow
+means the opposite. Timing matters because a person can have enough
+monthly income overall but still face a shortage before a bill is due.
+
+4.9 SAVINGS RATE A simple savings-rate measure is amount saved divided
+by income for the same period. Different tools define income and savings
+differently, so PennyWise should show its formula rather than present
+one percentage as universally correct.
+
+4.10 LIVING WITHIN YOUR INCOME Living within income means recurring
+spending and obligations do not consistently require new debt or
+depletion of savings. It can require changing spending, increasing
+income, or both.
+
+4.11 LIFESTYLE INFLATION Lifestyle inflation occurs when spending rises
+as income rises, leaving little improvement in saving capacity. A raise
+can support both a better lifestyle and greater saving if the increase
+is allocated intentionally.
+
+4.12 IMPULSE SPENDING Impulse purchases are unplanned decisions made
+with little deliberation. Waiting before nonessential purchases, using a
+list, or setting a discretionary limit can create time to decide whether
+the purchase fits current priorities.
+
+4.13 SUBSCRIPTION SPENDING Small recurring charges can accumulate.
+Review statements for services you no longer use, duplicate
+subscriptions, trial conversions, and price increases.
+
+4.14 ADJUSTING A BUDGET WHEN INCOME CHANGES When income falls,
+prioritize essential expenses and required obligations and revisit
+optional spending. When income rises, decide in advance how much goes to
+current spending, savings, debt, or investing rather than allowing every
+category to rise automatically.
+
+============================================================ 5. SAVING &
+EMERGENCY FUNDS
+============================================================
+
+5.1 WHY SAVE MONEY? Savings provide money for future purchases and
+unexpected costs without immediately relying on debt. Savings can also
+create flexibility during income disruptions.
+
+5.2 SHORT-TERM VS. LONG-TERM SAVINGS Short-term savings are for goals
+expected relatively soon and are often kept in liquid, lower-risk
+accounts. Long-term goals may allow a different balance of liquidity and
+investment risk depending on time horizon.
+
+5.3 EMERGENCY FUNDS An emergency fund is money reserved for unexpected
+necessary expenses or income loss. It is commonly held somewhere safe
+and accessible, such as an insured savings account.
+
+5.4 WHAT COUNTS AS AN EMERGENCY? Examples can include an essential car
+repair, urgent medical cost, necessary home repair, or unexpected loss
+of income. A planned vacation or routine bill is usually better handled
+as a separate savings goal.
+
+5.5 ESSENTIAL MONTHLY EXPENSES Essential expenses can include housing,
+basic food, utilities, transportation needed for work, insurance,
+minimum debt obligations, and necessary health costs. PennyWise can
+total these to estimate how long available savings might cover
+necessities.
+
+5.6 CHOOSING AN EMERGENCY-FUND TARGET There is no single amount
+appropriate for everyone. A user can choose a target based on essential
+expenses, job stability, dependents, insurance, access to support, and
+comfort with risk. PennyWise should let the user explore several target
+sizes instead of declaring one mandatory number.
+
+5.7 SETTING SAVINGS GOALS Define the amount, target date, current
+balance, and expected contributions. Required monthly savings can be
+estimated as remaining amount divided by remaining months, ignoring
+interest for a simple conservative calculation.
+
+5.8 AUTOMATING SAVINGS Automatic transfers can move part of each
+paycheck or scheduled amount into savings before it is spent. Users
+should choose an amount that does not cause overdrafts or missed bills.
+
+5.9 SAVING WITH IRREGULAR INCOME When income varies, base essential
+spending on a conservative income estimate and save more during stronger
+months. Separating money for taxes may also be important for
+self-employed or gig workers.
+
+5.10 INTEREST AND APY Interest is money paid for the use of funds. For
+deposit accounts, APY reflects the annualized yield including
+compounding assumptions and helps compare accounts more consistently.
+
+5.11 COMPOUND GROWTH Compounding means returns can be earned on the
+original amount and on prior returns. Time, contribution size, return,
+and fees all affect future value. Investment returns are uncertain;
+savings-account rates can also change.
+
+5.12 SAVING FOR LARGE PURCHASES Estimate the full cost, desired purchase
+date, current savings, and monthly contribution. Saving before buying
+can reduce how much must be financed and lets users see the tradeoff
+between buying sooner and borrowing more.
+
+============================================================ 6. YOUR
+PAYCHECK & EMPLOYMENT
+============================================================
+
+6.1 UNDERSTANDING YOUR PAYCHECK A pay statement usually shows gross pay,
+taxes withheld, benefit deductions, other deductions, and net pay.
+Reviewing it helps verify hours, pay rate, and deductions.
+
+6.2 GROSS PAY Gross pay is earnings before payroll deductions. For
+hourly workers it generally reflects eligible hours times pay rates,
+including applicable overtime; salaried pay is allocated according to
+the employer’s pay schedule.
+
+6.3 NET PAY Net pay is the amount remaining after taxes and other
+deductions. It is the amount actually delivered by check or direct
+deposit.
+
+6.4 PAY PERIODS Employers may pay weekly, biweekly, semimonthly,
+monthly, or on another lawful schedule. Biweekly means every two weeks
+and normally creates 26 pay periods in a year; semimonthly usually means
+twice a month, or 24 pay periods.
+
+6.5 FEDERAL INCOME-TAX WITHHOLDING Employers generally withhold federal
+income tax from employee wages. The amount depends on pay and
+information provided on Form W-4, among other factors. Withholding is a
+prepayment toward tax liability, not a separate extra tax.
+
+6.6 STATE & LOCAL TAXES State and local income-tax rules depend on where
+a person lives and works. Some states have no individual income tax
+while others do, and some localities impose additional taxes. PennyWise
+should use location-specific official sources rather than one nationwide
+rule.
+
+6.7 SOCIAL SECURITY TAX Social Security payroll tax helps fund Social
+Security. Employees generally see an employee share withheld from
+covered wages, while employers generally pay a corresponding employer
+share. Rules and wage limits can change by year.
+
+6.8 MEDICARE TAX Medicare payroll tax helps fund Medicare. Employees
+generally have Medicare tax withheld from covered wages, and additional
+Medicare tax rules can apply above statutory thresholds.
+
+6.9 FORM W-4 Employees give Form W-4 to their employer so the employer
+can calculate federal income-tax withholding. Life changes or a
+significant mismatch between expected tax and withholding may justify
+reviewing the form.
+
+6.10 FORM W-2 Employers issue Form W-2 to report wages and certain taxes
+withheld for an employee. Workers commonly use it when preparing a
+federal tax return.
+
+6.11 EMPLOYEE VS. INDEPENDENT CONTRACTOR Employees and independent
+contractors are treated differently for tax and labor purposes.
+Classification depends on the facts and law, not merely what a company
+calls a worker. Contractors generally handle more of their own tax
+payment responsibilities.
+
+6.12 1099 / GIG WORK Certain nonemployee income may be reported on a
+Form 1099. Even if a form is not received, taxable income may still need
+to be reported. Self-employed workers may need to plan for income and
+self-employment taxes and possible estimated payments.
+
+6.13 EMPLOYEE BENEFITS Benefits can include health insurance, retirement
+plans, paid leave, disability coverage, life insurance, education
+assistance, and other programs. Compare both the value and the employee
+cost, not salary alone.
+
+6.14 HEALTH INSURANCE THROUGH WORK Employer plans may require employees
+to pay part of the premium and may include deductibles, copays,
+coinsurance, networks, and out-of-pocket limits. Compare total expected
+cost and coverage rather than premium alone.
+
+6.15 PAID TIME OFF Paid time off can include vacation, sick leave, or
+combined PTO. Accrual, rollover, payout, and eligibility rules depend on
+the employer and applicable law.
+
+6.16 RETIREMENT BENEFITS Workplace plans such as a 401(k) can allow
+workers to save for retirement with tax advantages. Investment options,
+fees, withdrawal rules, and employer contributions vary by plan.
+
+6.17 EMPLOYER MATCHING Some employers contribute when an employee
+contributes to a retirement plan. The match formula and vesting rules
+are plan-specific. Employees are always vested in their own 401(k)
+contributions, but employer contributions may vest over time.
+
+============================================================ 7. TAXES
+============================================================
+
+7.1 WHY TAXES EXIST Governments collect taxes to fund public programs
+and services. In the U.S., taxes can exist at federal, state, and local
+levels.
+
+7.2 FEDERAL INCOME TAX Federal income tax is based on taxable income
+under federal law. The U.S. uses tax brackets, meaning different
+portions of taxable income can be taxed at different marginal rates.
+
+7.3 STATE INCOME TAX State income-tax systems vary. Some states impose
+graduated or flat individual income taxes and some impose none. Always
+use the current rules for the relevant state.
+
+7.4 LOCAL TAXES Cities, counties, school districts, or other local
+governments may impose income, wage, property, sales, or other taxes
+depending on jurisdiction.
+
+7.5 SOCIAL SECURITY & MEDICARE TAXES Payroll taxes for Social Security
+and Medicare are distinct from federal income tax. Employees commonly
+see them separately on pay statements.
+
+7.6 TAX WITHHOLDING Withholding sends part of an employee’s pay to tax
+authorities during the year. Too little can result in tax due and
+possibly penalties; too much can produce a refund, but a refund
+generally means more was paid in than final liability required.
+
+7.7 WHAT IS A TAX RETURN? A tax return reports relevant income,
+deductions, credits, payments, and tax calculations for a tax year.
+Filing requirements depend on factors such as income, filing status,
+age, and type of income.
+
+7.8 FORM 1040 Form 1040 is the primary U.S. individual federal
+income-tax return. Schedules and additional forms may be required
+depending on the taxpayer’s situation.
+
+7.9 UNDERSTANDING YOUR W-2 A W-2 reports wages and certain federal,
+Social Security, Medicare, and possibly state/local tax information.
+Check that identifying information and wage amounts appear correct
+before filing.
+
+7.10 UNDERSTANDING 1099 FORMS Forms 1099 report various types of income
+or transactions, such as nonemployee compensation, interest, dividends,
+or certain payment-platform transactions. Different 1099 forms serve
+different purposes.
+
+7.11 W-2 VS. 1099 INCOME W-2 generally indicates employee wages with
+employer withholding. 1099 income can include nonemployee or other
+income where withholding may be limited or absent. The form alone does
+not override the legal rules for worker classification.
+
+7.12 TAX DEDUCTIONS A deduction generally reduces income subject to tax
+when allowed. Its tax effect depends on the taxpayer’s situation and
+applicable rules.
+
+7.13 TAX CREDITS A tax credit generally reduces tax liability directly
+when eligibility rules are met. Some credits can be refundable, meaning
+part or all may be payable even if it exceeds tax otherwise owed.
+
+7.14 STANDARD VS. ITEMIZED DEDUCTIONS Many taxpayers claim the standard
+deduction; others itemize qualifying deductions when that produces a
+better result or is required. Amounts and rules change, so PennyWise
+should link to current IRS information.
+
+7.15 TAX REFUNDS A refund generally occurs when payments and refundable
+credits exceed final tax liability. A large refund is not automatically
+“free money”; it may include money previously withheld from the
+taxpayer’s income.
+
+7.16 OWING TAXES If tax liability exceeds payments and credits, the
+taxpayer may owe money. Filing on time and addressing the balance is
+generally better than ignoring it; IRS payment options may be available.
+
+7.17 FILING DEADLINES Federal individual returns are generally due in
+the spring following the tax year, but the exact deadline can vary due
+to weekends, holidays, disaster relief, or special circumstances. Show
+the current IRS deadline rather than hard-coding a permanent date.
+
+7.18 FILING AN EXTENSION An extension generally gives additional time to
+file a federal return, not additional time to pay tax due. Estimate and
+pay expected tax by the original payment deadline when required.
+
+7.19 FILING TAXES FOR THE FIRST TIME Gather taxpayer identification
+information, income forms, records for relevant deductions or credits,
+and prior-year information if needed. Use reputable tax software, an
+authorized preparer, or eligible free assistance.
+
+7.20 FREE TAX-FILING RESOURCES The IRS offers Free File options for
+eligible taxpayers and supports programs such as VITA and TCE for
+qualifying populations. Eligibility and service availability can change
+annually.
+
+7.21 TAX SCAMS The IRS does not demand unusual payment methods such as
+gift cards. Be suspicious of threats, urgent demands, or messages asking
+for sensitive data. Verify tax communications through official IRS
+channels.
+
+7.22 ITIN VS. SSN FOR TAX PURPOSES An SSN is issued by the Social
+Security Administration to eligible individuals. An ITIN is issued by
+the IRS for federal tax purposes to certain people who need a taxpayer
+identification number but are not eligible for an SSN. An ITIN does not
+itself grant work authorization or immigration status.
+
+============================================================ 8. DEBT &
+LOANS ============================================================
+
+8.1 WHAT IS DEBT? Debt is money or another obligation owed to someone
+else. Common consumer debt includes credit cards, student loans, auto
+loans, mortgages, and personal loans.
+
+8.2 “GOOD” VS. “BAD” DEBT Calling debt good or bad can oversimplify it.
+Evaluate purpose, interest rate, fees, affordability, repayment period,
+risk, and alternatives. Even debt used for education or a home can
+become harmful if the terms or payment burden are unsustainable.
+
+8.3 PRINCIPAL Principal is the amount borrowed before interest and
+certain charges. Loan payments may be divided between principal and
+interest.
+
+8.4 INTEREST Interest is the price paid for borrowing money. The amount
+paid depends on rate, balance, time, payment schedule, and calculation
+method.
+
+8.5 APR APR is an annualized measure designed to help compare borrowing
+costs. What APR includes can depend on the product and law, so users
+should also inspect fees and total payment information.
+
+8.6 LOAN TERMS Loan terms include amount financed, rate or APR, length,
+payment amount, fees, collateral, late-payment rules, and prepayment
+conditions. A lower monthly payment can still produce a higher total
+cost if the term is longer.
+
+8.7 MONTHLY PAYMENTS A loan payment may include principal, interest, and
+sometimes other charges. Affordability should be judged alongside total
+cost, not payment alone.
+
+8.8 SECURED VS. UNSECURED LOANS Secured loans are backed by collateral
+that the lender may be able to take after default, such as a vehicle or
+home. Unsecured loans do not rely on specific collateral in the same
+way, but nonpayment can still cause collections, credit damage, or legal
+consequences.
+
+8.9 PERSONAL LOANS Personal loans often provide a lump sum repaid in
+installments. Compare APR, origination fees, repayment term, late fees,
+and whether the rate is fixed or variable.
+
+8.10 STUDENT LOANS Federal and private student loans have different
+terms and protections. Federal loans can provide repayment options and
+benefits not necessarily available from private lenders. Compare the
+full terms before borrowing.
+
+8.11 AUTO LOANS Auto loans finance a vehicle and are generally secured
+by it. Compare vehicle price, down payment, APR, term, monthly payment,
+add-ons, and total amount paid.
+
+8.12 CREDIT-CARD DEBT Credit-card balances can carry relatively high
+interest rates. Continuing to charge while making only minimum payments
+can extend repayment substantially.
+
+8.13 MINIMUM PAYMENTS The minimum is the smallest required monthly
+payment under the account terms. Paying more than the minimum generally
+reduces repayment time and interest when there is no prepayment penalty.
+
+8.14 HOW INTEREST ADDS UP Interest increases the cost of borrowing over
+time. Longer terms and higher rates usually increase total interest,
+even when they make the monthly payment look smaller.
+
+8.15 DEBT SNOWBALL The snowball strategy prioritizes the smallest
+balance while making required payments on other debts. It can create
+motivational wins but may cost more interest than prioritizing the
+highest rate.
+
+8.16 DEBT AVALANCHE The avalanche strategy prioritizes the
+highest-interest debt while making required payments on the others.
+Mathematically, it generally minimizes interest when payment amounts and
+other assumptions are equal.
+
+8.17 REFINANCING Refinancing replaces existing debt with new debt. It
+may lower a rate or change the payment, but fees, a longer term, lost
+protections, or variable rates can make a seemingly lower payment more
+expensive overall.
+
+8.18 CO-SIGNERS A co-signer agrees to be legally responsible for debt if
+the primary borrower does not pay. The account can affect the
+co-signer’s credit and borrowing capacity, so co-signing is a
+significant financial commitment.
+
+8.19 PREDATORY-LENDING WARNING SIGNS Warning signs can include extremely
+high costs, pressure to act immediately, confusing terms, repeated
+refinancing, or lending structured around inability to repay. Compare
+alternatives and read required disclosures before signing.
+
+============================================================ 9. RENTING
+& HOUSING ============================================================
+
+9.1 RENTING YOUR FIRST APARTMENT Estimate rent plus utilities,
+insurance, transportation, deposits, application costs, and moving
+expenses. Verify the property and landlord before paying or sharing
+sensitive information.
+
+9.2 UNDERSTANDING A LEASE A lease is a legal agreement describing rent,
+term, deposits, responsibilities, rules, fees, and procedures for ending
+or renewing tenancy. Read the full document before signing and keep a
+copy.
+
+9.3 APPLICATION FEES Landlords may charge application or screening fees
+where permitted. Rules vary by state and locality. Confirm the property
+is legitimate before paying.
+
+9.4 SECURITY DEPOSITS A security deposit is money held under the lease
+and applicable law to cover certain unpaid obligations or damage.
+Limits, handling, deductions, and return deadlines depend on state/local
+law.
+
+9.5 MONTHLY RENT Rent is only one part of housing cost. Ask which
+utilities, parking, internet, trash, amenities, or other charges are
+included.
+
+9.6 UTILITIES Utilities can include electricity, gas, water, sewer,
+trash, and internet. Ask which accounts must be opened in your name and
+whether deposits are required.
+
+9.7 RENTERS INSURANCE Renters insurance can cover personal property and
+liability subject to policy terms, limits, exclusions, and deductibles.
+A landlord’s property insurance generally does not replace coverage for
+a tenant’s belongings.
+
+9.8 ROOMMATES Roommates can reduce housing costs but create shared
+financial obligations. Understand whether tenants are jointly
+responsible for the entire rent, how utilities are split, and what
+happens if someone leaves.
+
+9.9 CO-SIGNERS / GUARANTORS A landlord may request a guarantor when an
+applicant lacks income or credit history. The guarantor can become
+financially responsible under the agreement, so everyone should
+understand the legal obligation.
+
+9.10 CREDIT CHECKS FOR APARTMENTS Landlords may use consumer reports
+where permitted. Applicants with limited U.S. credit history can ask
+what alternative documentation the landlord accepts, such as proof of
+income or a guarantor.
+
+9.11 MOVING COSTS Budget for deposits, first rent payment,
+transportation, furniture, utility setup, insurance, and supplies. A
+move that appears affordable based on rent alone may require significant
+upfront cash.
+
+9.12 RENT AFFORDABILITY There is no universal rent percentage that fits
+everyone. Compare housing cost with take-home income, debt,
+transportation, essential expenses, savings, and local costs.
+
+9.13 BUYING VS. RENTING Buying can build equity but involves transaction
+costs, maintenance, taxes, insurance, and market risk. Renting can offer
+flexibility and fewer ownership responsibilities. The better fit depends
+on finances, location, time horizon, and preferences.
+
+9.14 BASICS OF BUYING A HOME Homebuying commonly involves budgeting,
+credit review, preapproval, property search, offer, inspection, loan
+underwriting, appraisal, insurance, and closing. HUD-approved housing
+counseling can help consumers understand the process.
+
+9.15 MORTGAGES A mortgage is a loan secured by real property. Compare
+interest rate, APR, fixed versus adjustable terms, loan length, fees,
+mortgage insurance if applicable, and total projected payments.
+
+9.16 DOWN PAYMENTS A down payment is money paid upfront toward the
+purchase price. Required amounts vary by loan program and borrower
+circumstances. A larger down payment can reduce the amount borrowed but
+also uses cash that might otherwise remain available.
+
+9.17 MORTGAGE INTEREST Mortgage interest is part of the cost of
+borrowing. Small rate differences can have large long-term effects
+because mortgages often involve large balances and long terms.
+
+9.18 PROPERTY TAXES Property taxes are imposed by local governments and
+can change over time. They may be paid directly or through a mortgage
+escrow account.
+
+9.19 HOMEOWNERS INSURANCE Homeowners insurance can cover specified
+property damage and liability subject to policy terms. Mortgage lenders
+generally require adequate coverage. Flood and earthquake risks may
+require separate coverage.
+
+9.20 CLOSING COSTS Closing costs can include lender charges, title
+services, appraisal, recording fees, prepaid taxes or insurance, and
+other expenses. Review the official loan disclosures rather than
+focusing only on the down payment.
+
+============================================================ 10. BUYING
+& OWNING A CAR
+============================================================
+
+10.1 BUYING YOUR FIRST CAR Set a total budget before shopping and
+include insurance, registration, taxes, fuel, maintenance, and
+financing—not just sticker price.
+
+10.2 NEW VS. USED New vehicles may include newer technology and
+warranties but often cost more and can depreciate quickly. Used vehicles
+may cost less but can carry greater maintenance uncertainty. Compare
+total expected ownership cost.
+
+10.3 VEHICLE PRICE VS. TOTAL COST The negotiated price is only one
+component. Taxes, registration, financing charges, insurance, fuel,
+maintenance, repairs, and optional products can substantially change
+total cost.
+
+10.4 DOWN PAYMENTS A down payment reduces the amount financed. More
+money down can reduce monthly payment and interest, but buyers should
+consider whether using too much cash would weaken emergency savings.
+
+10.5 AUTO LOANS Shop for financing before visiting a dealer when
+possible. Compare APR, term, amount financed, monthly payment, and total
+of payments.
+
+10.6 APR Auto-loan APR helps compare annualized borrowing costs. A lower
+APR generally reduces financing cost, all else equal.
+
+10.7 LOAN LENGTH Longer terms usually lower monthly payments but can
+increase total interest and keep the borrower in debt longer. They can
+also increase the period during which the loan balance exceeds the car’s
+market value.
+
+10.8 MONTHLY PAYMENTS Do not negotiate solely around a target monthly
+payment. A dealer can lower the payment by extending the term while
+increasing total cost.
+
+10.9 DEALER FINANCING Dealers may arrange financing through lenders.
+Compare the dealer’s offer with bank or credit-union preapproval and
+review optional add-ons separately.
+
+10.10 CAR INSURANCE Auto insurance requirements and prices vary by
+state, driver, vehicle, coverage, deductible, and insurer. Obtain quotes
+before committing to a vehicle.
+
+10.11 REGISTRATION Vehicles generally must be titled and registered
+according to state law. Fees and renewal schedules vary by state.
+
+10.12 MAINTENANCE Oil, tires, brakes, inspections, and repairs are part
+of ownership cost. A monthly maintenance reserve can make irregular
+expenses easier to handle.
+
+10.13 FUEL Fuel cost depends on efficiency, mileage driven, and fuel
+prices. Compare expected annual fuel use rather than assuming two
+similarly priced vehicles cost the same to operate.
+
+10.14 DEPRECIATION Depreciation is the decline in a vehicle’s market
+value over time. It is a real ownership cost even though it does not
+appear as a monthly bill.
+
+10.15 LEASING VS. BUYING A lease generally provides use of a vehicle for
+a defined period with mileage and condition requirements; ownership does
+not automatically transfer. Buying builds ownership as the loan is
+repaid. Compare upfront cost, monthly payments, mileage needs,
+end-of-term charges, and long-term plans.
+
+10.16 TOTAL COST OF OWNERSHIP Add purchase price, financing, insurance,
+taxes, registration, fuel, maintenance, repairs, and expected
+depreciation. PennyWise’s simulator should show these components
+separately.
+
+============================================================ 11.
+INSURANCE ============================================================
+
+11.1 WHAT IS INSURANCE? Insurance transfers specified financial risks to
+an insurer in exchange for premiums. Coverage only applies according to
+the policy’s terms, exclusions, limits, and conditions.
+
+11.2 PREMIUMS A premium is the price paid for insurance coverage. A
+lower premium does not automatically mean a better policy because
+deductibles, limits, networks, and exclusions may differ.
+
+11.3 DEDUCTIBLES A deductible is an amount the insured may need to pay
+before certain coverage begins. The way deductibles apply differs by
+policy type.
+
+11.4 COPAYS A copay is a fixed amount a health plan may require for a
+covered service, such as an office visit or prescription. Details vary
+by plan.
+
+11.5 COINSURANCE Coinsurance is a percentage of covered costs the
+insured pays after applicable deductible rules. For example, 20%
+coinsurance means the member pays 20% of the allowed covered cost under
+the plan’s rules.
+
+11.6 COVERAGE LIMITS A coverage limit is the maximum an insurer will pay
+under specified coverage. Higher limits can provide more protection but
+may cost more.
+
+11.7 HEALTH INSURANCE Health insurance helps pay covered medical costs.
+Compare premiums, deductible, copays, coinsurance, network, prescription
+coverage, and out-of-pocket maximum.
+
+11.8 EMPLOYER HEALTH INSURANCE Employers may subsidize premiums and
+offer several plan choices. Enrollment windows and qualifying life-event
+rules matter. Compare the employee’s share of premiums and expected
+out-of-pocket costs.
+
+11.9 AUTO INSURANCE Auto policies can include liability, collision,
+comprehensive, uninsured/underinsured motorist, medical-related
+coverage, and other protections depending on state and policy. State
+minimum coverage may not equal the amount of protection a household
+wants.
+
+11.10 RENTERS INSURANCE Renters coverage can protect belongings and
+provide liability coverage under policy terms. Inventorying possessions
+can help estimate needed coverage and document losses.
+
+11.11 HOMEOWNERS INSURANCE Homeowners policies can cover a dwelling,
+belongings, liability, and certain additional living expenses, subject
+to terms. Standard policies do not cover every hazard.
+
+11.12 LIFE INSURANCE BASICS Life insurance pays a death benefit to
+beneficiaries when policy requirements are met. Term insurance covers a
+specified period; permanent policies can include additional features and
+generally have different costs and complexity.
+
+11.13 DISABILITY INSURANCE BASICS Disability insurance can replace part
+of income when a covered disability prevents work. Understand the
+benefit amount, waiting period, duration, definition of disability,
+exclusions, and employer versus individual coverage.
+
+11.14 COMPARING POLICIES Compare equivalent coverage, not premium alone.
+Review deductibles, limits, exclusions, networks, riders, claims
+process, and insurer information.
+
+============================================================ 12.
+INVESTING ============================================================
+
+12.1 SAVING VS. INVESTING Saving usually emphasizes safety and liquidity
+for near-term needs. Investing puts money into assets such as stocks or
+bonds with the expectation of return but involves risk of loss.
+
+12.2 WHY PEOPLE INVEST People invest to pursue long-term goals such as
+retirement, education, or wealth building. Returns can come from price
+appreciation, interest, or dividends, but none is guaranteed for market
+investments.
+
+12.3 RISK & RETURN All investments involve risk. Investments with
+greater potential return can also expose investors to greater loss or
+volatility. Time horizon and ability to tolerate loss matter.
+
+12.4 COMPOUND GROWTH Compound growth occurs when returns are earned on
+both original contributions and prior returns. Starting earlier gives
+compounding more time, but hypothetical growth examples are not
+guarantees.
+
+12.5 STOCKS A stock represents an ownership interest in a company. Share
+prices can rise or fall, and companies may or may not pay dividends.
+
+12.6 BONDS A bond is generally debt issued by a government,
+municipality, or company. Investors lend money in exchange for promised
+interest and repayment terms, but bonds still carry risks such as
+credit, interest-rate, and inflation risk.
+
+12.7 ETFs An exchange-traded fund pools investor money into a portfolio
+and trades on an exchange. ETFs can hold stocks, bonds, or other assets.
+Diversification, fees, strategy, and risk vary widely.
+
+12.8 MUTUAL FUNDS A mutual fund pools money from many investors into a
+portfolio managed according to a stated objective. Investors should
+review fees, strategy, holdings, and risks.
+
+12.9 INDEX FUNDS An index fund seeks to track a market index rather than
+selecting securities solely to outperform it. Index funds can be mutual
+funds or ETFs and still involve market risk and fees.
+
+12.10 DIVIDENDS Dividends are distributions a company or fund may make
+to investors. They are not guaranteed and can be reduced or stopped.
+
+12.11 CAPITAL GAINS A capital gain generally occurs when an investment
+is sold for more than its tax basis; a loss can occur when sold for
+less. Tax treatment depends on holding period, account type, and current
+tax law.
+
+12.12 BROKERAGE ACCOUNTS A brokerage account allows investors to buy and
+sell securities. Compare fees, investment choices, cash protections,
+trading features, and whether the brokerage is properly registered.
+
+12.13 DIVERSIFICATION Diversification spreads money across investments
+to reduce concentration risk. It can reduce the damage from one holding
+performing poorly, but it cannot guarantee against market losses.
+
+12.14 ASSET ALLOCATION Asset allocation divides investments among
+categories such as stocks, bonds, and cash. The appropriate mix depends
+on goals, time horizon, and risk tolerance rather than a universal
+formula.
+
+12.15 RISK TOLERANCE Risk tolerance describes how much investment
+uncertainty or loss an investor is willing and able to accept. Emotional
+comfort and financial capacity are both relevant.
+
+12.16 TIME HORIZON Time horizon is how long until money is expected to
+be needed. Longer horizons may provide more time to recover from market
+declines; short-term money generally requires greater attention to
+liquidity and loss risk.
+
+12.17 MARKET VOLATILITY Volatility describes how much prices fluctuate.
+Temporary declines are normal in markets, but some investments can
+experience permanent losses.
+
+12.18 DOLLAR-COST AVERAGING Dollar-cost averaging means investing equal
+amounts at regular intervals regardless of market price. It can create
+discipline but does not guarantee profit or protect against loss.
+
+12.19 INVESTMENT FEES Fees reduce investment returns. Examples include
+expense ratios, advisory fees, commissions, account fees, and certain
+transaction costs.
+
+12.20 EXPENSE RATIOS An expense ratio represents annual operating
+expenses of a fund as a percentage of assets. Small percentage
+differences can compound into meaningful dollar differences over long
+periods.
+
+12.21 ACTIVE VS. PASSIVE INVESTING Active strategies attempt to select
+or trade investments to outperform a benchmark or meet another
+objective. Passive strategies often seek to track an index. Both can
+involve fees and risk.
+
+12.22 INVESTMENT SCAMS Warning signs include guaranteed high returns,
+pressure to act immediately, secrecy, unregistered sellers, and requests
+to send money through unusual methods. Verify investment professionals
+and offerings through official regulatory resources.
+
+12.23 CRYPTO — UNDERSTANDING THE RISKS Crypto assets can be highly
+volatile and may lack protections associated with traditional insured
+deposits or registered securities products. FDIC insurance does not
+insure crypto assets. Users should understand custody, fraud, platform,
+technology, and price risks before considering them.
+
+============================================================ 13.
+RETIREMENT ============================================================
+
+13.1 WHAT IS RETIREMENT PLANNING? Retirement planning means building
+financial resources for years when employment income may decrease or
+stop. It can involve workplace plans, IRAs, Social Security, personal
+savings, and other assets.
+
+13.2 WHY STARTING EARLIER MATTERS Earlier contributions have more time
+for potential compound growth. Starting later does not make retirement
+saving pointless, but reaching the same goal can require larger
+contributions.
+
+13.3 COMPOUND GROWTH Reinvested earnings can generate additional
+earnings over time. PennyWise projections should label return
+assumptions as hypothetical and show that actual markets vary.
+
+13.4 EMPLOYER RETIREMENT PLANS Common defined-contribution plans include
+401(k), 403(b), and certain 457 plans. Rules, investment choices, fees,
+employer contributions, and withdrawal provisions vary.
+
+13.5 WHAT IS A 401(K)? A 401(k) is an employer-sponsored retirement plan
+that allows eligible employees to contribute from pay, subject to tax
+rules and annual limits. Contributions are then invested in options
+offered by the plan.
+
+13.6 EMPLOYER MATCHING Some employers match a portion of employee
+contributions. Match formulas vary. Review the plan document to
+understand how much an employee must contribute to receive the available
+match.
+
+13.7 TRADITIONAL 401(K) Traditional 401(k) employee contributions are
+generally made on a pre-tax basis for federal income-tax purposes, and
+qualified withdrawals are generally taxable. Specific tax consequences
+depend on current law and individual circumstances.
+
+13.8 ROTH 401(K) Designated Roth 401(k) contributions are made after
+tax. Qualified distributions can be tax-free if legal requirements are
+satisfied.
+
+13.9 WHAT IS AN IRA? An Individual Retirement Arrangement is a
+tax-advantaged retirement account established by an individual rather
+than an employer. Eligibility, deductibility, and contribution rules
+depend on law and circumstances.
+
+13.10 TRADITIONAL IRA Traditional IRA contributions may be deductible
+depending on income, filing status, and workplace-plan coverage.
+Earnings generally grow tax-deferred, and taxable distributions are
+generally included in income.
+
+13.11 ROTH IRA Roth IRA contributions are made with after-tax dollars
+and are subject to income and contribution rules. Qualified
+distributions can be tax-free.
+
+13.12 TRADITIONAL VS. ROTH The major distinction is generally the timing
+of tax treatment: traditional arrangements may provide tax benefits on
+contributions under applicable rules with taxes later, while Roth
+contributions are after-tax with qualified withdrawals potentially
+tax-free. Individual circumstances determine which features are more
+valuable.
+
+13.13 CONTRIBUTION LIMITS Retirement-plan and IRA contribution limits
+can change each year. PennyWise should retrieve or display the current
+IRS limit with a year label rather than permanently embedding one
+amount.
+
+13.14 VESTING Vesting determines ownership of employer-provided
+retirement contributions. Employees are always fully vested in their own
+401(k) contributions, while employer contributions may vest under the
+plan’s schedule.
+
+13.15 RETIREMENT WITHDRAWALS Retirement accounts have rules for
+distributions, taxes, and possible penalties. Exceptions and
+required-distribution rules can change, so users should consult current
+IRS guidance before withdrawing.
+
+13.16 ROLLOVER BASICS A rollover moves eligible retirement money from
+one retirement arrangement to another. Direct rollovers can avoid
+certain withholding complications, but account type and tax treatment
+matter.
+
+13.17 SOCIAL SECURITY BASICS Social Security can provide retirement,
+disability, and survivor benefits to eligible people based on program
+rules and work history. It is separate from a 401(k) or IRA and should
+not be described as a personal investment account.
+
+============================================================ 14. COLLEGE
+& EDUCATION ============================================================
+
+14.1 UNDERSTANDING COLLEGE COSTS College cost includes more than
+tuition. Consider fees, housing, food, books, supplies, transportation,
+and personal expenses, then subtract grants and scholarships to estimate
+net cost.
+
+14.2 TUITION VS. TOTAL COST Tuition is the charge for instruction; total
+cost of attendance is broader and can include living and educational
+expenses. Comparing schools by tuition alone can be misleading.
+
+14.3 FAFSA BASICS The Free Application for Federal Student Aid is used
+to apply for federal student aid and can also be used by states and
+schools. Students should use the official Federal Student Aid process
+and submit required information accurately.
+
+14.4 GRANTS Grants are financial aid that generally does not have to be
+repaid, although exceptions can apply if eligibility conditions are not
+met. Federal, state, institutional, and private grants have different
+rules.
+
+14.5 SCHOLARSHIPS Scholarships are funds awarded under criteria set by
+the provider and generally do not require repayment. Never assume a
+scholarship is legitimate if it requires suspicious upfront payments or
+sensitive information without verification.
+
+14.6 FEDERAL STUDENT LOANS Federal student loans are funded or
+guaranteed under federal programs and have standardized terms and
+federal protections. Borrow only what is needed and review interest,
+fees, and repayment options.
+
+14.7 PRIVATE STUDENT LOANS Private education loans come from banks,
+credit unions, or other private lenders. Rates, co-signer requirements,
+repayment options, and borrower protections can differ substantially
+from federal loans.
+
+14.8 SUBSIDIZED VS. UNSUBSIDIZED For eligible Direct Subsidized Loans,
+the federal government pays interest during certain qualifying periods.
+Direct Unsubsidized Loans accrue interest during all periods, including
+while the borrower is in school.
+
+14.9 STUDENT-LOAN INTEREST Interest increases the amount repaid.
+Understand whether interest accrues during school, whether unpaid
+interest can be capitalized under applicable rules, and the loan’s fixed
+or variable rate.
+
+14.10 REPAYMENT BASICS Repayment plans determine monthly payments and
+timeline. Federal borrowers may have multiple plan options subject to
+current rules; private-loan options depend on the lender.
+
+14.11 WORK-STUDY Federal Work-Study provides part-time employment to
+eligible students with financial need at participating schools. An award
+does not mean money is automatically credited like a grant; students
+generally earn wages by working.
+
+14.12 EDUCATION SAVINGS BASICS Families may use savings accounts or
+tax-advantaged education accounts such as 529 plans, subject to
+applicable rules. Investment risk, fees, tax benefits, and qualified-use
+requirements vary.
+
+============================================================ 15.
+FINANCIAL GOALS
+============================================================
+
+15.1 SETTING FINANCIAL GOALS A useful goal states what you want, how
+much it costs, when you want it, and what you can contribute. Specific
+numbers make progress measurable.
+
+15.2 SHORT-TERM GOALS Short-term goals are expected relatively soon,
+such as a small emergency reserve or upcoming purchase. Liquidity and
+principal stability can matter more when the money will be needed soon.
+
+15.3 MEDIUM-TERM GOALS Medium-term goals might include a vehicle,
+relocation, or larger emergency reserve. Choose savings or investment
+risk based on how flexible the date is and how much loss you could
+tolerate.
+
+15.4 LONG-TERM GOALS Long-term goals such as retirement or a distant
+home purchase may allow more time for investment growth and recovery
+from volatility, but still require an appropriate risk plan.
+
+15.5 PRIORITIZING MULTIPLE GOALS Separate urgent obligations from
+flexible wants, then decide how available cash is divided. PennyWise can
+let users change priorities and see how increasing one contribution
+delays or accelerates another goal.
+
+15.6 SAVING FOR A CAR Include down payment, taxes, registration,
+insurance, and an initial repair or maintenance reserve. Compare the
+effect of a larger down payment with keeping emergency savings.
+
+15.7 SAVING FOR EDUCATION Estimate net education cost after expected
+aid, then separate near-term tuition needs from longer-term savings.
+Avoid assuming future scholarships or investment returns are guaranteed.
+
+15.8 SAVING FOR A HOME A home goal can include down payment, closing
+costs, moving expenses, initial repairs, and cash reserves. The down
+payment alone is not the full upfront cost.
+
+15.9 SAVING FOR TRAVEL Estimate transportation, lodging, food,
+activities, insurance, local transportation, and currency costs. A
+dedicated sinking fund can keep planned travel separate from emergency
+savings.
+
+15.10 SAVING FOR RETIREMENT Retirement is a long-term goal where time
+and regular contributions can be powerful. Employer matches and
+tax-advantaged accounts can be important, but investment outcomes remain
+uncertain.
+
+15.11 TRACKING PROGRESS Progress percentage can be calculated as current
+saved amount divided by target amount. Show both dollars and percentage
+so users understand what remains.
+
+15.12 ADJUSTING GOALS Life changes can make a goal unrealistic or less
+important. Users should be able to change amount, date, or contribution
+without being told they “failed.”
+
+============================================================ 16. FRAUD,
+SCAMS & FINANCIAL SAFETY
+============================================================
+
+16.1 PROTECTING YOUR MONEY Slow down when someone creates urgency.
+Verify the organization using contact information you independently know
+is legitimate, and never share passwords or one-time security codes with
+an unexpected caller or message.
+
+16.2 PHISHING Phishing messages impersonate trusted organizations to
+steal information or install malicious software. Avoid clicking
+unexpected links; instead, open the official app or type the known
+website yourself.
+
+16.3 FAKE BANK MESSAGES Scammers can spoof bank names or phone numbers
+and claim there is fraud on your account. A real-looking caller ID is
+not proof. Contact your bank using the number on your card or official
+app.
+
+16.4 IDENTITY THEFT Identity theft occurs when someone uses personal
+information without permission, often for financial gain. If it happens,
+IdentityTheft.gov provides an FTC recovery process and personalized
+steps.
+
+16.5 CREDIT-CARD FRAUD Review transactions and report unauthorized
+charges promptly to the issuer. Card networks and federal protections
+can apply, but users should act quickly and follow the issuer’s dispute
+process.
+
+16.6 INVESTMENT SCAMS Be skeptical of guaranteed returns, little or no
+risk, secret strategies, pressure, or unregistered sellers. Verify
+investment professionals through official regulatory databases.
+
+16.7 TAX SCAMS Scammers impersonate tax agencies and threaten arrest or
+demand immediate payment. Verify claims directly with the IRS and never
+pay a supposed tax debt using gift cards or other unusual methods.
+
+16.8 JOB SCAMS Legitimate employers do not require applicants to pay to
+get a job. Fake-check schemes often send a check and instruct the victim
+to buy equipment or send money back; the check later fails and the
+victim loses the real money sent.
+
+16.9 RENTAL SCAMS Scammers copy legitimate listings or invent
+properties, then demand deposits before a victim can verify the rental.
+Search the address, verify the owner or company, and avoid payment
+demands involving gift cards, crypto, or wire transfers.
+
+16.10 ROMANCE SCAMS A scammer may build an online relationship and
+eventually request money, investments, or financial help. Never send
+money to someone you have only met online based on an urgent story.
+
+16.11 MONEY-TRANSFER SCAMS Wire transfers, gift cards, and
+cryptocurrency can be difficult to reverse. Treat requests for these
+payment methods from strangers or unexpected contacts as major warning
+signs.
+
+16.12 PROTECTING YOUR SSN Share an SSN only when there is a legitimate
+need and you understand who is requesting it and why. Avoid carrying
+unnecessary documents containing the number and securely store records.
+
+16.13 STRONG PASSWORDS & MFA Use long, unique passwords for financial
+accounts and enable multifactor authentication where available. Reusing
+passwords allows one breach to threaten multiple accounts.
+
+16.14 FREEZING YOUR CREDIT A security freeze restricts access to a
+credit file and can make it harder for identity thieves to open new
+accounts. Freezes are handled separately with each nationwide
+credit-reporting company and can be lifted when needed.
+
+16.15 WHAT TO DO IF YOUR IDENTITY IS STOLEN Report identity theft at
+IdentityTheft.gov, follow the recovery plan, contact affected companies,
+review credit reports, and consider credit freezes or fraud alerts as
+appropriate.
+
+16.16 REPORTING FRAUD Report scams to the FTC at ReportFraud.ftc.gov and
+contact the financial company used to send money as quickly as possible
+to ask whether a transaction can be stopped or reversed. Other reports
+may be appropriate depending on the scam.
+
+============================================================ 17. MONEY
+FOR NEWCOMERS TO AMERICA
+============================================================
+
+17.1 NEW TO THE U.S.? START HERE Focus first on safe access to money,
+income, housing, and protection from fraud. Learn how bank accounts,
+paychecks, taxes, credit, and insurance work before moving into more
+advanced investing topics.
+
+17.2 UNDERSTANDING U.S. CURRENCY The U.S. dollar is divided into 100
+cents. Cash remains legal tender, but many everyday payments use debit
+cards, credit cards, bank transfers, or mobile payment services. Keep
+receipts for important purchases and monitor electronic transactions.
+
+17.3 OPENING YOUR FIRST U.S. BANK ACCOUNT Ask several banks or credit
+unions what identification they accept because requirements can differ.
+Compare fees, minimums, ATM access, direct deposit, transfer features,
+and federal deposit insurance. Never pay a stranger to “guarantee” you a
+bank account.
+
+17.4 UNDERSTANDING SSNs & ITINs An SSN and ITIN are different
+taxpayer-identification numbers issued by different agencies. An ITIN is
+for federal tax processing for eligible people who cannot obtain an SSN;
+it does not provide work authorization or change immigration status.
+
+17.5 RECEIVING YOUR FIRST PAYCHECK Check gross pay, hours or salary,
+taxes, benefit deductions, and net pay. If something appears wrong, ask
+payroll or HR. Keep W-2s and other tax documents for filing.
+
+17.6 ESTABLISHING U.S. CREDIT HISTORY A person can arrive with no U.S.
+credit file even after responsibly managing money elsewhere. Start
+slowly with products that report to U.S. credit bureaus, pay on time,
+and avoid expensive products that promise instant credit improvement.
+
+17.7 GETTING YOUR FIRST CREDIT CARD Compare annual fees, APR,
+security-deposit requirements, credit limits, and reporting practices. A
+secured card can be one option for limited credit history. Spending
+small amounts and paying on time is more important than carrying debt.
+
+17.8 RENTING WITHOUT ESTABLISHED CREDIT Ask the landlord what
+alternatives are accepted, such as income verification, references, a
+larger lawful deposit, or a guarantor. Requirements and deposit limits
+vary by state and locality.
+
+17.9 BUYING A CAR IN THE U.S. Compare insurance cost and financing
+before choosing a car. Newcomers with limited U.S. credit may receive
+different loan offers, making APR and total amount paid especially
+important to compare.
+
+17.10 UNDERSTANDING U.S. TAXES Employees may have taxes withheld from
+pay, while self-employed workers may need to make their own payments.
+Tax filing rules depend on income and tax status. Immigration status and
+tax residency are legal concepts that should not be guessed by
+PennyWise; direct users to IRS guidance or qualified help.
+
+17.11 UNDERSTANDING HEALTH INSURANCE U.S. health care can involve
+premiums, deductibles, copays, coinsurance, provider networks, and
+out-of-pocket limits. Coverage may come from an employer, a government
+program if eligible, or an individual marketplace. Eligibility rules can
+depend on personal circumstances.
+
+17.12 SENDING MONEY INTERNATIONALLY A remittance transfer sends money to
+a recipient abroad. Compare exchange rate, transfer fee, amount
+recipient receives, delivery time, and cancellation/error-resolution
+rights when applicable. The cheapest advertised fee does not always
+produce the most money for the recipient.
+
+17.13 CURRENCY EXCHANGE Exchange rates determine how much foreign
+currency is received for U.S. dollars or vice versa. Providers can earn
+money through both explicit fees and the rate offered, so compare the
+final amount received.
+
+17.14 INTERNATIONAL TRANSFER FEES Possible costs include sender fees,
+intermediary fees, recipient fees, and exchange-rate markup. Compare the
+total delivered amount rather than one fee in isolation.
+
+17.15 BUILDING AN EMERGENCY FUND Moving countries can create irregular
+costs such as deposits, transportation, documents, or family
+emergencies. Start with an achievable amount and increase it as finances
+stabilize rather than treating one target as mandatory.
+
+17.16 UNDERSTANDING RETIREMENT ACCOUNTS A U.S. employer may offer a
+401(k) or similar plan, sometimes with matching contributions. IRAs are
+individual retirement arrangements. Tax rules, withdrawal rules,
+contribution limits, and eligibility matter, so read current plan and
+IRS information.
+
+17.17 FINANCIAL SCAMS TARGETING NEWCOMERS Scammers may exploit
+unfamiliarity with U.S. institutions by impersonating government
+agencies, employers, landlords, banks, or immigration-related
+authorities. Urgent threats and demands for gift cards, cryptocurrency,
+or wire transfers are strong warning signs. Verify independently before
+paying or sharing information.
+
+17.18 WHERE TO FIND TRUSTED FINANCIAL INFORMATION Use primary government
+and regulatory sources when possible: - CFPB: consumer banking, credit,
+loans, mortgages, debt, remittances - FDIC: insured bank deposits and
+banking education - NCUA: federally insured credit unions - IRS: federal
+taxes, W-4, W-2, ITINs, retirement tax rules - Investor.gov / SEC:
+investing and fraud education - FTC: scams, identity theft, consumer
+protection - Federal Student Aid: FAFSA, grants, federal loans,
+work-study - Department of Labor: workplace retirement and benefit
+information - HUD: housing counseling and homebuying resources
+
+============================================================ SUGGESTED
+INTERACTIVE ITEMS FOR THE LEARN TAB
+============================================================
+
+Credit Utilization: balance / credit limit × 100
+
+Budget Builder: income - expenses = monthly surplus/deficit
+
+Emergency Runway: liquid emergency savings / essential monthly expenses
+
+Goal Planner: (target - current savings) / months remaining
+
+Loan Explorer: show payment, total interest, and total paid as APR and
+term change
+
+Investment Growth: show contributions versus hypothetical growth with
+adjustable return assumptions and a clear “not guaranteed” label
+
+Car Cost Explorer: purchase + financing + insurance + fuel +
+maintenance + registration
+
+Rent Comparison: rent + utilities + insurance + transportation impact
+
+Paycheck Explorer: gross pay → taxes/deductions → net pay
+
+Remittance Comparison: amount sent - fees → exchange rate → estimated
+recipient amount
+
+============================================================ PRIMARY
+RESEARCH SOURCES
+============================================================
+
+Consumer Financial Protection Bureau (CFPB)
+https://www.consumerfinance.gov/consumer-tools/ Topics: bank accounts,
+credit cards, credit reports and scores, auto loans, mortgages, debt
+collection, student loans, fraud, money transfers, savings.
+
+Federal Deposit Insurance Corporation (FDIC)
+https://www.fdic.gov/consumer-resource-center/ Topics: checking,
+savings, CDs, deposit insurance, bank safety.
+
+Internal Revenue Service (IRS) https://www.irs.gov/ Topics: W-4, W-2,
+withholding, filing, ITINs, federal tax rules, retirement-account tax
+rules.
+
+Investor.gov — U.S. Securities and Exchange Commission
+https://www.investor.gov/ Topics: investing, stocks, bonds, ETFs, mutual
+funds, diversification, compound growth, investment fraud.
+
+Federal Trade Commission (FTC) Consumer Advice https://consumer.ftc.gov/
+Topics: identity theft, phishing, job scams, rental scams, fake checks,
+consumer fraud.
+
+Federal Student Aid — U.S. Department of Education
+https://studentaid.gov/ Topics: FAFSA, grants, federal student loans,
+subsidized and unsubsidized loans, work-study.
+
+U.S. Department of Labor — Employee Benefits Security Administration
+https://www.dol.gov/agencies/ebsa Topics: 401(k) plans, retirement-plan
+rights, vesting, employee benefits.
+
+U.S. Department of Housing and Urban Development (HUD)
+https://www.hud.gov/ Topics: housing counseling, homebuying, renting,
+mortgages.
+
+National Credit Union Administration (NCUA) https://ncua.gov/ Topics:
+credit unions and federal share insurance.
+
+IdentityTheft.gov https://www.identitytheft.gov/ Topic: identity-theft
+reporting and recovery.
+
+AnnualCreditReport.com https://www.annualcreditreport.com/ Topic:
+federally authorized credit-report access.
+
+============================================================ END OF
+PENNYWISE LEARN CONTENT
+============================================================
