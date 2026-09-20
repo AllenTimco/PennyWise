@@ -346,3 +346,29 @@ function showPurchaseImpact() {
     document.getElementById('purchase-credit').textContent =
         credit;
 }
+// =====================================================
+// BEFORE YOU BUY - CAMERA
+// =====================================================
+
+async function startPurchaseCamera() {
+    const video = document.getElementById('purchase-camera');
+
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({
+            video: true,
+            audio: false
+        });
+
+        video.srcObject = stream;
+        video.style.display = 'block';
+
+        document.getElementById('purchase-status').textContent =
+            'Camera active. Stay still and breathe normally.';
+
+    } catch (error) {
+        console.error('Camera error:', error);
+
+        document.getElementById('purchase-status').textContent =
+            'Camera access was not available. You can continue without it.';
+    }
+}

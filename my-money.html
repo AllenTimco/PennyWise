@@ -127,8 +127,32 @@
         <h3>Pause and breathe normally.</h3>
 
         <p>
-            Look toward the camera and stay still for a short moment.
-        </p>
+    Look toward the camera and stay still for a short moment.
+</p>
+
+<div style="margin-top: 20px;">
+    <video
+        id="purchase-camera"
+        autoplay
+        playsinline
+        muted
+        style="
+            width: 100%;
+            max-width: 500px;
+            border-radius: 12px;
+            display: none;
+        "
+    ></video>
+
+    <button
+        class="btn btn-dark"
+        type="button"
+        onclick="startPurchaseCamera()"
+        style="margin-top: 15px;"
+    >
+        Turn On Camera
+    </button>
+</div>
 
         <div class="metric-grid">
             <div class="metric">
@@ -194,10 +218,39 @@
     <p id="purchase-status"></p>
 </div>
                     <div class="panel">
-                        <p class="label">Recent activity</p>
-                        <h3>Transactions</h3>
-                        <ul id="transaction-list"></ul>
-                    </div>
+    <p class="label">Your spending</p>
+    <h3>Financial snapshot</h3>
+
+    <div class="metric-grid">
+        <div class="metric">
+            <small>Monthly income</small>
+            <strong id="side-income">$3,500</strong>
+        </div>
+
+        <div class="metric">
+            <small>Monthly expenses</small>
+            <strong id="side-expenses">$2,200</strong>
+        </div>
+
+        <div class="metric">
+            <small>Savings</small>
+            <strong id="side-savings">$5,200</strong>
+        </div>
+
+        <div class="metric">
+            <small>Debt</small>
+            <strong id="side-debt">$1,000</strong>
+        </div>
+    </div>
+
+    <div style="margin-top: 30px;">
+        <p class="label">Before You Buy</p>
+        <p>
+            Enter a purchase on the left to see how it
+            could affect the money you have available.
+        </p>
+    </div>
+</div>
                 </div>
             </div>
         </section>
