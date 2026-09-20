@@ -77,22 +77,122 @@
             <div class="page-container">
                 <div class="dashboard-page">
                     <div class="panel">
-                        <p class="label">Transactions</p>
-                        <h3>Add an expense</h3>
-                        <form id="transaction-form" class="form-grid">
-                            <div class="field"><label>Amount</label><input id="transaction-amount" type="number"
-                                    min="0.01" step="0.01" required></div>
-                            <div class="field"><label>Description</label><input id="transaction-description" type="text"
-                                    required></div>
-                            <div class="field"><label>Category</label><input id="transaction-category" type="text"
-                                    required></div>
-                            <div class="field"><label>Date</label><input id="transaction-date" type="date" required>
-                            </div>
-                            <div class="form-actions"><button class="btn btn-dark" type="submit">Save expense</button>
-                            </div>
-                        </form>
-                        <p id="transaction-status"></p>
-                    </div>
+    <p class="label">Smart spending</p>
+    <h3>Before You Buy</h3>
+
+    <p>
+        Take a short pause before making a major purchase.
+        See how it could affect your financial goals.
+    </p>
+
+    <form id="purchase-form" class="form-grid">
+
+        <div class="field">
+            <label>What are you thinking about buying?</label>
+            <input
+                id="purchase-name"
+                type="text"
+                placeholder="AirPods Max"
+                required
+            >
+        </div>
+
+        <div class="field">
+            <label>How much does it cost?</label>
+            <input
+                id="purchase-amount"
+                type="number"
+                min="0.01"
+                step="0.01"
+                placeholder="549"
+                required
+            >
+        </div>
+
+        <div class="form-actions">
+            <button
+                class="btn btn-dark"
+                type="submit"
+            >
+                Start Before You Buy Check
+            </button>
+        </div>
+
+    </form>
+
+    <div id="purchase-check" style="display: none; margin-top: 30px;">
+
+        <p class="label">Take a moment</p>
+
+        <h3>Pause and breathe normally.</h3>
+
+        <p>
+            Look toward the camera and stay still for a short moment.
+        </p>
+
+        <div class="metric-grid">
+            <div class="metric">
+                <small>Pulse</small>
+                <strong id="purchase-pulse">--</strong>
+            </div>
+
+            <div class="metric">
+                <small>Breathing</small>
+                <strong id="purchase-breathing">--</strong>
+            </div>
+        </div>
+
+        <div class="form-actions">
+            <button
+                class="btn btn-dark"
+                type="button"
+                onclick="showPurchaseImpact()"
+            >
+                Continue
+            </button>
+        </div>
+
+    </div>
+
+    <div id="purchase-impact" style="display: none; margin-top: 30px;">
+
+        <p class="label">Purchase impact</p>
+
+        <h3 id="purchase-impact-name">Purchase</h3>
+
+        <div class="metric-grid">
+
+            <div class="metric">
+                <small>Purchase cost</small>
+                <strong id="purchase-cost">$0</strong>
+            </div>
+
+            <div class="metric">
+                <small>Money left after expenses</small>
+                <strong id="purchase-money-left">$0</strong>
+            </div>
+
+            <div class="metric">
+                <small>Savings</small>
+                <strong id="purchase-savings">$0</strong>
+            </div>
+
+            <div class="metric">
+                <small>Credit score</small>
+                <strong id="purchase-credit">0</strong>
+            </div>
+
+        </div>
+
+        <p style="margin-top: 20px;">
+            Take a moment to consider whether this purchase
+            fits your current financial goals.
+        </p>
+
+    </div>
+
+    <p id="purchase-status"></p>
+</div>
                     <div class="panel">
                         <p class="label">Recent activity</p>
                         <h3>Transactions</h3>

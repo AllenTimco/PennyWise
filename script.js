@@ -296,3 +296,53 @@ document.addEventListener('DOMContentLoaded', () =>
         });
     }
 });
+// =====================================================
+// BEFORE YOU BUY
+// =====================================================
+
+let currentPurchase = {
+    name: '',
+    amount: 0
+};
+
+document.getElementById('purchase-form')?.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const name = document.getElementById('purchase-name').value;
+    const amount = +document.getElementById('purchase-amount').value || 0;
+
+    currentPurchase.name = name;
+    currentPurchase.amount = amount;
+
+    document.getElementById('purchase-check').style.display = 'block';
+    document.getElementById('purchase-status').textContent =
+        'Presage check ready. Look at the camera and breathe normally.';
+});
+
+function showPurchaseImpact() {
+
+    const income = +document.getElementById('income').value || 0;
+    const expenses = +document.getElementById('expenses').value || 0;
+    const savings = +document.getElementById('savings').value || 0;
+    const credit = +document.getElementById('credit').value || 0;
+
+    const moneyLeft = income - expenses;
+    const moneyAfterPurchase = moneyLeft - currentPurchase.amount;
+
+    document.getElementById('purchase-impact').style.display = 'block';
+
+    document.getElementById('purchase-impact-name').textContent =
+        currentPurchase.name;
+
+    document.getElementById('purchase-cost').textContent =
+        money(currentPurchase.amount);
+
+    document.getElementById('purchase-money-left').textContent =
+        money(moneyAfterPurchase);
+
+    document.getElementById('purchase-savings').textContent =
+        money(savings);
+
+    document.getElementById('purchase-credit').textContent =
+        credit;
+}
